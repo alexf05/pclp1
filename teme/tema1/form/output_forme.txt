@@ -1,0 +1,69 @@
+  *  
+  *  
+*****
+  *  
+  *  
+
+*   *
+ * * 
+  *  
+ * * 
+*   *
+
+  *  
+  *  
+*****
+  *  
+  *  
+
+*   *
+ * * 
+  *  
+ * * 
+*   *
+
+  *  
+  *  
+*****
+  *  
+  *  
+
+*
+
+*                 *
+ *               * 
+  *             *  
+   *           *   
+    *         *    
+     *       *     
+      *     *      
+       *   *       
+        * *        
+         *         
+        * *        
+       *   *       
+      *     *      
+     *       *     
+    *         *    
+   *           *   
+  *             *  
+ *               * 
+*                 *
+
+Unsupported angle to display shape
+
+Unsupported size to display shape
+
+Unsupported size to display shape
+
+Unsupported size to display shape
+
+*       *
+ *     * 
+  *   *  
+   * *   
+    *    
+   * *   
+  *   *  
+ *     * 
+*       *

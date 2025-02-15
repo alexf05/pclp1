@@ -1,0 +1,10003 @@
+90 50 30
+F 1
+A 10
+S 5
+F 3
+S 2
+A 6
+S 5
+S 7
+P
+S 80000000000
+D 60000000000
+D 30000000000
+W 10000000000
+A 50000000000
+D 20000000000
+A 80000000000
+W 30000000000
+A 20000000000
+S 30000000000
+A 90000000000
+S 60000000000
+A 20000000000
+P
+S 2
+F 2
+F 4
+F 7
+F 1
+A 9
+F 6
+D 3
+W 7
+A 9
+F 0
+F 3
+S 10
+D 8
+P
+S 1
+P
+D 5
+P
+W 8
+F 2
+D 7
+W 8
+P
+D 4
+A 6
+W 8
+S 6
+S 10
+D 4
+S 10
+D 9
+D 3
+A 9
+D 6
+S 8
+A 9
+P
+D 2
+A 10
+P
+S 5
+W 6
+A 9
+W 6
+S 1
+F 0
+F 2
+S 4
+F 3
+F 7
+A 10
+S 7
+F 1
+F 6
+F 0
+F 9
+S 5
+P
+F 9
+D 10
+W 4
+W 9
+W 5
+W 1
+F 8
+F 7
+F 6
+S 1
+F 3
+P
+W 9
+P
+A 4
+D 4
+D 9
+P
+A 3
+P
+S 5
+S 2
+S 1
+F 8
+F 5
+W 5
+F 3
+P
+A 2
+S 4
+F 3
+P
+S 5
+S 1
+W 9
+P
+D 4
+W 8
+D 1
+F 5
+P
+D 5
+P
+S 4
+F 0
+F 3
+P
+F 8
+P
+D 5
+A 6
+W 2
+F 4
+P
+W 6
+W 3
+A 3
+P
+D 1
+P
+A 9
+S 6
+A 4
+S 7
+F 8
+P
+W 9
+P
+F 9
+P
+S 1
+P
+F 8
+S 6
+D 10
+D 3
+F 8
+S 9
+S 2
+A 4
+P
+A 3
+D 8
+W 9
+W 2
+W 4
+W 10
+S 5
+S 5
+P
+D 2
+F 0
+P
+S 9
+W 5
+W 9
+A 10
+F 7
+P
+A 3
+S 8
+F 2
+P
+S 10
+P
+A 7
+D 8
+P
+W 10
+P
+F 6
+A 4
+P
+W 2
+F 8
+S 5
+A 10
+D 6
+S 3
+W 10
+F 7
+S 5
+S 5
+W 8
+P
+F 7
+W 4
+D 1
+F 6
+F 9
+A 1
+W 10
+F 1
+D 10
+D 9
+A 1
+D 10
+S 10
+D 3
+D 4
+W 1
+P
+S 9
+S 6
+W 8
+F 1
+D 10
+P
+F 5
+S 2
+S 1
+W 6
+D 1
+F 8
+D 1
+D 10
+S 1
+D 1
+A 1
+A 7
+S 1
+D 4
+A 9
+S 2
+A 1
+F 9
+D 5
+A 7
+F 3
+F 2
+P
+F 5
+F 8
+F 3
+A 8
+F 6
+D 3
+S 10
+A 9
+S 8
+S 2
+W 6
+A 6
+F 4
+D 9
+F 5
+W 2
+S 5
+P
+S 6
+S 7
+P
+A 8
+S 5
+A 4
+P
+S 8
+S 3
+A 4
+F 7
+A 4
+D 6
+A 9
+S 2
+D 5
+A 6
+P
+F 3
+W 6
+D 2
+D 6
+D 5
+F 7
+P
+F 7
+D 2
+A 6
+S 3
+S 1
+D 4
+F 3
+W 10
+P
+A 7
+W 10
+S 9
+S 4
+P
+D 2
+D 7
+P
+A 6
+W 1
+P
+F 1
+W 3
+W 10
+P
+F 2
+P
+A 3
+F 7
+F 9
+D 4
+F 4
+S 3
+D 7
+A 9
+D 10
+P
+W 4
+S 2
+F 7
+S 1
+F 7
+A 1
+F 4
+F 5
+W 8
+W 8
+D 8
+F 0
+W 2
+W 3
+P
+D 7
+D 2
+P
+W 5
+W 8
+D 10
+D 10
+W 8
+D 6
+D 6
+S 10
+P
+S 5
+P
+S 4
+S 7
+W 9
+P
+D 5
+F 6
+A 2
+F 3
+P
+S 7
+D 9
+P
+D 4
+F 6
+S 7
+A 9
+A 4
+W 8
+P
+S 7
+W 4
+A 9
+F 1
+A 9
+W 8
+W 5
+F 0
+A 2
+A 2
+F 6
+W 3
+D 7
+F 2
+P
+S 5
+S 9
+A 7
+A 7
+P
+S 6
+D 7
+S 8
+P
+A 8
+A 10
+F 3
+F 0
+S 3
+W 1
+W 4
+P
+A 6
+S 5
+A 1
+S 8
+F 8
+W 2
+S 5
+S 3
+F 6
+F 5
+W 7
+A 7
+A 7
+A 4
+D 10
+P
+S 10
+W 7
+A 5
+W 1
+D 1
+P
+A 9
+A 9
+F 9
+W 5
+S 10
+W 5
+S 7
+W 1
+D 5
+D 6
+P
+D 9
+W 8
+F 1
+S 7
+P
+S 10
+A 5
+D 6
+W 4
+D 5
+F 6
+S 8
+S 2
+D 1
+P
+D 4
+D 7
+P
+D 7
+D 8
+A 6
+F 6
+D 7
+P
+D 6
+P
+W 8
+P
+W 10
+P
+D 4
+P
+D 4
+A 2
+F 2
+S 7
+D 7
+A 1
+A 8
+D 2
+D 7
+P
+S 2
+A 6
+D 1
+P
+A 4
+W 7
+P
+W 2
+S 4
+S 5
+P
+A 5
+D 7
+W 10
+P
+S 10
+P
+S 10
+W 5
+A 5
+W 6
+A 10
+A 3
+F 4
+F 0
+W 5
+W 7
+F 6
+S 10
+F 2
+S 1
+A 7
+S 2
+A 1
+W 8
+P
+F 0
+P
+D 9
+S 4
+P
+F 6
+W 8
+W 5
+W 6
+S 7
+A 2
+A 4
+F 8
+S 2
+P
+D 1
+S 3
+S 6
+P
+W 2
+W 7
+W 4
+S 6
+D 3
+S 10
+D 4
+S 10
+W 5
+D 8
+A 3
+A 9
+F 1
+D 9
+A 10
+D 10
+W 8
+F 6
+F 5
+F 0
+D 8
+D 1
+S 4
+W 3
+W 5
+P
+D 9
+F 2
+F 3
+S 5
+P
+F 8
+D 10
+W 4
+P
+W 2
+D 10
+P
+A 3
+W 9
+F 7
+A 9
+P
+W 3
+A 10
+W 3
+F 5
+A 2
+F 2
+D 10
+W 8
+W 9
+W 4
+W 9
+A 1
+A 10
+D 5
+A 1
+F 6
+W 1
+P
+S 4
+F 5
+W 3
+D 3
+W 7
+F 1
+D 9
+D 3
+W 3
+W 2
+A 1
+P
+A 2
+A 4
+A 9
+P
+S 10
+F 6
+F 1
+A 3
+A 7
+P
+A 7
+A 9
+D 10
+D 8
+S 3
+S 2
+F 5
+A 7
+F 4
+W 6
+S 5
+W 5
+S 4
+S 5
+F 0
+W 4
+F 3
+D 2
+A 2
+F 4
+D 8
+D 10
+S 2
+W 10
+P
+A 10
+A 10
+S 9
+P
+W 6
+P
+A 8
+W 9
+A 10
+D 1
+W 9
+F 6
+P
+S 4
+W 3
+F 6
+W 8
+S 1
+D 8
+F 5
+A 3
+W 6
+F 8
+P
+F 5
+F 3
+D 8
+D 9
+D 3
+S 8
+F 4
+D 8
+D 1
+P
+F 9
+F 0
+P
+A 6
+W 8
+F 4
+F 2
+D 7
+D 5
+S 2
+F 5
+S 1
+W 3
+A 2
+D 1
+D 3
+A 10
+W 5
+A 8
+P
+D 9
+A 10
+F 4
+A 5
+D 6
+A 3
+F 6
+S 1
+F 2
+D 8
+P
+W 6
+A 2
+F 1
+A 2
+P
+W 6
+F 3
+S 4
+P
+W 1
+A 10
+D 8
+A 5
+P
+W 9
+P
+S 7
+P
+A 4
+D 1
+F 8
+A 4
+S 6
+A 8
+A 6
+P
+D 6
+A 5
+F 9
+D 8
+S 6
+W 2
+W 8
+S 9
+D 3
+P
+S 5
+D 5
+F 1
+P
+F 8
+P
+W 2
+W 2
+F 2
+F 9
+D 5
+S 2
+P
+W 9
+P
+D 8
+F 7
+P
+S 9
+F 6
+F 7
+D 9
+S 10
+A 10
+W 5
+F 1
+D 9
+F 5
+A 10
+D 1
+P
+F 0
+W 8
+W 9
+D 2
+S 6
+P
+A 3
+S 8
+W 9
+P
+S 9
+W 5
+S 4
+P
+A 8
+S 6
+W 2
+P
+A 8
+P
+W 4
+F 7
+P
+W 8
+S 10
+F 9
+S 1
+S 7
+D 8
+S 8
+P
+W 8
+W 6
+W 3
+F 1
+P
+W 9
+A 5
+A 7
+S 5
+F 5
+S 7
+A 6
+D 6
+P
+S 1
+S 10
+A 9
+W 10
+A 10
+F 5
+D 1
+S 9
+P
+D 6
+A 10
+A 8
+F 2
+F 3
+P
+D 4
+S 2
+P
+A 7
+A 10
+A 2
+W 3
+P
+D 2
+A 1
+D 5
+F 2
+P
+A 7
+P
+W 1
+A 7
+A 4
+W 9
+D 9
+F 1
+A 6
+D 3
+A 2
+A 9
+S 8
+S 9
+W 2
+F 2
+W 10
+W 10
+S 7
+F 0
+P
+S 1
+W 10
+P
+W 6
+W 7
+F 0
+P
+S 5
+F 7
+S 2
+D 7
+W 6
+F 9
+S 2
+P
+F 9
+W 6
+W 10
+W 6
+W 1
+F 5
+D 6
+A 3
+P
+F 0
+F 9
+P
+A 8
+S 4
+D 8
+D 3
+F 4
+D 4
+A 1
+F 2
+W 7
+S 7
+D 5
+W 1
+P
+F 1
+A 6
+F 7
+D 3
+D 7
+S 8
+F 5
+A 2
+S 2
+S 2
+A 6
+S 4
+S 7
+W 3
+F 5
+D 1
+P
+W 10
+D 9
+S 7
+S 8
+W 7
+A 4
+P
+D 9
+W 5
+W 3
+P
+A 8
+A 10
+P
+S 8
+A 1
+S 1
+F 4
+W 1
+D 9
+S 3
+W 4
+P
+A 10
+F 4
+A 5
+P
+F 5
+W 3
+A 8
+S 5
+D 9
+D 10
+F 5
+W 4
+F 4
+W 10
+S 9
+D 7
+D 4
+W 10
+A 6
+P
+D 9
+D 8
+S 8
+P
+F 6
+F 3
+D 4
+A 2
+A 9
+S 5
+P
+S 3
+W 5
+D 1
+D 2
+P
+F 6
+P
+F 0
+F 7
+F 3
+A 6
+D 3
+A 5
+S 6
+D 2
+W 5
+W 10
+P
+S 1
+S 1
+S 9
+A 4
+S 7
+P
+D 1
+W 6
+F 0
+W 1
+D 9
+A 6
+D 7
+S 2
+F 3
+S 2
+S 10
+P
+S 5
+D 9
+P
+A 1
+S 10
+S 7
+W 2
+S 7
+F 4
+F 4
+W 6
+P
+S 10
+F 2
+F 8
+D 4
+A 4
+A 10
+F 1
+A 8
+D 6
+F 6
+P
+D 4
+A 7
+W 10
+P
+A 3
+P
+F 5
+A 10
+P
+S 5
+A 8
+S 3
+P
+S 7
+P
+W 1
+D 3
+F 9
+W 6
+F 4
+D 5
+D 4
+F 5
+P
+S 2
+W 4
+A 8
+F 3
+A 6
+W 7
+D 10
+D 3
+D 4
+F 5
+F 0
+D 8
+A 10
+A 10
+A 10
+F 9
+A 9
+F 7
+P
+S 7
+A 4
+F 4
+F 2
+W 9
+P
+D 6
+D 6
+W 6
+W 8
+P
+F 4
+D 6
+P
+A 1
+P
+S 4
+W 4
+F 0
+A 3
+A 2
+A 8
+A 4
+S 4
+P
+D 5
+P
+D 6
+F 7
+P
+S 1
+W 9
+P
+F 3
+A 2
+S 3
+W 6
+F 9
+W 6
+P
+F 8
+S 5
+D 9
+P
+D 5
+A 6
+F 9
+F 1
+W 6
+W 1
+P
+D 3
+W 3
+F 6
+P
+S 5
+S 7
+W 10
+A 8
+W 6
+W 6
+D 3
+P
+A 6
+D 6
+W 7
+S 6
+P
+W 9
+F 6
+D 2
+P
+A 4
+D 10
+W 2
+W 3
+W 7
+F 2
+A 8
+P
+S 1
+D 2
+P
+F 3
+W 10
+A 10
+D 3
+P
+W 10
+A 9
+P
+W 5
+A 4
+F 0
+A 6
+S 2
+F 5
+W 9
+F 7
+P
+W 8
+S 6
+W 6
+W 6
+D 1
+W 10
+S 6
+D 7
+W 8
+P
+S 3
+W 7
+D 8
+A 9
+W 10
+A 10
+F 6
+P
+D 6
+D 1
+D 7
+S 8
+D 5
+S 7
+D 5
+F 9
+A 6
+P
+S 2
+A 2
+W 4
+S 9
+S 10
+W 1
+F 7
+W 9
+A 7
+W 1
+S 5
+F 4
+D 7
+A 1
+F 3
+W 9
+F 8
+W 3
+P
+S 9
+P
+D 1
+A 10
+W 1
+F 4
+S 8
+S 9
+A 8
+D 6
+A 1
+S 1
+P
+F 3
+W 9
+D 6
+W 1
+P
+F 3
+A 6
+W 5
+W 7
+W 6
+P
+A 2
+P
+S 10
+A 1
+D 7
+S 8
+P
+W 4
+S 4
+S 10
+A 1
+D 5
+F 4
+A 9
+D 6
+D 1
+P
+D 6
+D 3
+A 4
+A 10
+F 2
+D 9
+P
+D 8
+F 2
+D 1
+A 3
+P
+A 1
+S 9
+P
+D 4
+D 6
+P
+D 3
+D 10
+S 1
+A 1
+S 6
+W 6
+A 5
+S 1
+S 1
+D 1
+P
+A 4
+P
+F 9
+S 9
+D 6
+S 1
+P
+D 8
+P
+W 10
+S 3
+P
+W 8
+F 0
+W 10
+F 4
+S 10
+A 2
+S 6
+P
+A 9
+F 6
+F 1
+D 8
+F 4
+S 6
+S 7
+W 7
+P
+S 8
+D 1
+S 7
+W 10
+W 5
+P
+A 1
+W 5
+S 9
+P
+F 0
+F 8
+W 9
+A 9
+F 2
+D 6
+D 4
+W 3
+P
+A 4
+F 5
+F 8
+D 8
+S 5
+S 9
+W 4
+S 8
+F 0
+F 3
+W 10
+S 1
+S 8
+P
+D 1
+P
+W 8
+D 2
+P
+F 1
+D 4
+W 3
+P
+A 2
+A 9
+D 8
+W 9
+D 7
+P
+S 2
+P
+F 3
+A 6
+S 5
+S 1
+P
+A 7
+D 5
+F 3
+S 6
+P
+S 7
+F 7
+F 5
+S 2
+W 2
+S 7
+D 4
+A 2
+S 2
+W 6
+F 6
+D 10
+D 9
+P
+S 9
+S 6
+D 7
+W 3
+P
+A 8
+S 7
+W 9
+F 5
+D 7
+W 1
+A 4
+F 9
+F 1
+A 2
+D 9
+W 10
+D 10
+D 7
+W 4
+W 2
+P
+W 3
+F 1
+W 3
+P
+S 3
+S 6
+A 4
+D 3
+F 5
+S 5
+F 2
+F 0
+P
+S 1
+A 10
+F 2
+F 6
+D 7
+D 1
+W 1
+S 7
+P
+A 5
+D 5
+A 1
+S 2
+S 7
+F 8
+W 3
+P
+D 5
+A 6
+D 5
+D 6
+A 1
+S 7
+P
+F 7
+P
+S 1
+A 8
+F 5
+W 4
+P
+W 7
+D 7
+F 6
+F 3
+P
+W 6
+P
+D 6
+W 5
+A 2
+A 3
+A 7
+F 7
+A 1
+F 2
+D 7
+A 5
+P
+A 3
+D 6
+A 3
+S 8
+P
+A 8
+P
+A 6
+S 9
+A 3
+W 1
+A 3
+F 8
+A 1
+D 5
+S 10
+S 9
+P
+S 5
+P
+D 1
+W 7
+A 7
+P
+F 5
+A 5
+P
+D 1
+S 10
+S 10
+F 6
+P
+F 3
+A 1
+A 7
+A 3
+P
+W 1
+A 4
+A 2
+A 5
+D 3
+D 9
+S 4
+F 3
+P
+A 2
+S 8
+F 5
+D 1
+F 3
+S 5
+A 4
+P
+F 6
+S 5
+S 1
+A 5
+F 4
+D 10
+W 4
+W 7
+P
+W 6
+P
+W 9
+S 2
+D 4
+S 9
+W 2
+A 10
+P
+S 9
+S 9
+P
+F 7
+P
+A 3
+W 7
+S 2
+D 8
+F 2
+A 3
+S 5
+P
+A 6
+W 8
+A 6
+A 9
+W 5
+F 0
+W 5
+W 9
+A 2
+F 9
+A 7
+W 4
+P
+D 5
+F 7
+A 1
+F 8
+P
+F 4
+D 3
+D 5
+W 4
+S 3
+W 9
+A 1
+P
+W 9
+D 9
+P
+S 7
+W 2
+D 10
+D 9
+F 0
+F 0
+F 6
+W 10
+A 6
+P
+D 6
+F 7
+D 9
+P
+W 9
+D 9
+P
+A 8
+W 7
+P
+W 9
+S 10
+F 5
+W 1
+S 8
+W 3
+P
+W 7
+S 2
+F 2
+F 7
+S 4
+P
+F 2
+D 3
+W 8
+F 3
+S 2
+A 5
+W 10
+F 4
+S 10
+S 2
+P
+A 3
+F 5
+A 7
+A 7
+F 5
+F 0
+W 5
+W 9
+P
+D 6
+S 8
+S 9
+W 4
+S 6
+A 1
+W 10
+D 8
+W 4
+W 5
+S 8
+A 4
+W 2
+P
+S 8
+D 6
+A 10
+P
+S 7
+W 7
+D 6
+F 7
+P
+W 1
+S 8
+A 1
+F 4
+P
+S 5
+A 8
+W 6
+A 7
+W 3
+W 5
+W 5
+P
+D 8
+F 6
+F 5
+S 8
+W 3
+S 7
+A 7
+A 9
+P
+D 4
+W 2
+S 2
+W 4
+P
+A 3
+F 6
+A 2
+P
+W 5
+W 2
+S 6
+D 9
+D 5
+F 7
+W 4
+F 1
+W 2
+D 7
+D 5
+D 6
+A 1
+F 0
+S 10
+P
+D 3
+F 5
+P
+S 7
+W 9
+D 3
+A 3
+S 3
+F 7
+D 10
+P
+A 3
+A 5
+A 4
+D 8
+P
+F 1
+S 9
+A 4
+W 9
+S 5
+P
+A 3
+S 8
+P
+D 8
+D 4
+A 2
+P
+W 3
+W 10
+W 1
+P
+A 4
+D 4
+A 9
+W 3
+A 10
+P
+D 7
+F 4
+F 8
+W 5
+D 2
+W 9
+S 1
+A 2
+F 0
+F 9
+D 10
+F 2
+W 4
+S 9
+D 7
+W 9
+A 7
+S 8
+P
+F 3
+P
+S 6
+A 4
+A 4
+W 9
+A 7
+W 6
+P
+F 9
+D 3
+D 7
+W 8
+S 10
+W 6
+P
+F 1
+W 5
+W 2
+D 1
+W 4
+P
+A 8
+W 4
+F 5
+P
+D 5
+D 4
+A 10
+A 2
+D 8
+P
+A 4
+S 5
+S 8
+A 4
+W 1
+P
+S 4
+W 4
+S 2
+F 5
+D 8
+P
+W 1
+D 5
+D 6
+S 9
+W 8
+W 9
+P
+W 7
+A 9
+S 9
+W 10
+F 0
+S 3
+D 4
+P
+S 3
+W 7
+W 8
+W 2
+D 3
+D 7
+S 9
+W 4
+S 7
+S 8
+P
+F 8
+A 5
+W 5
+F 5
+A 9
+D 4
+D 9
+F 3
+D 9
+A 2
+A 1
+W 7
+F 6
+A 1
+F 2
+P
+W 9
+A 8
+F 4
+F 8
+P
+S 3
+F 8
+A 4
+W 1
+D 10
+A 1
+D 1
+A 1
+F 0
+P
+F 0
+W 9
+W 6
+S 10
+D 1
+F 3
+S 9
+A 5
+P
+D 1
+W 1
+D 1
+D 4
+A 6
+A 2
+A 6
+S 5
+S 8
+P
+S 5
+F 9
+D 9
+W 4
+F 2
+A 7
+P
+F 0
+W 8
+P
+D 10
+S 7
+A 10
+S 10
+S 4
+A 6
+S 3
+S 10
+A 1
+F 0
+D 3
+S 5
+D 4
+S 5
+W 8
+F 5
+F 7
+D 4
+F 4
+F 2
+W 5
+A 6
+S 4
+F 7
+P
+F 2
+S 1
+W 10
+W 10
+P
+W 7
+W 4
+D 8
+D 3
+A 1
+A 6
+D 4
+S 3
+D 3
+P
+S 2
+W 3
+P
+D 3
+S 9
+A 8
+A 8
+D 9
+D 8
+F 7
+P
+D 6
+W 3
+F 1
+P
+W 10
+P
+D 7
+D 4
+P
+D 6
+S 2
+A 6
+F 2
+P
+W 2
+W 7
+A 5
+P
+S 3
+P
+D 2
+F 0
+F 2
+F 8
+W 9
+W 4
+W 5
+S 8
+D 7
+S 7
+P
+D 2
+W 5
+P
+S 3
+W 2
+P
+S 6
+S 5
+D 8
+S 6
+A 5
+D 6
+S 6
+A 9
+A 5
+W 1
+D 5
+A 9
+P
+W 4
+S 1
+P
+F 5
+W 7
+P
+S 9
+A 6
+P
+F 9
+P
+A 2
+A 1
+A 9
+F 7
+F 6
+A 9
+D 7
+D 1
+F 3
+F 8
+D 8
+W 3
+P
+W 3
+P
+W 7
+S 9
+W 8
+A 9
+P
+A 3
+D 8
+A 4
+D 3
+W 9
+S 3
+W 1
+S 2
+P
+S 9
+F 3
+D 1
+F 7
+A 1
+A 1
+S 1
+F 6
+S 5
+W 2
+W 1
+P
+A 6
+P
+W 8
+S 3
+P
+W 10
+W 6
+P
+A 5
+W 5
+S 5
+F 6
+F 4
+W 9
+A 9
+F 6
+S 7
+S 7
+P
+W 7
+S 3
+W 7
+P
+D 9
+F 5
+W 10
+A 3
+F 3
+D 9
+W 4
+F 3
+F 8
+W 9
+P
+S 10
+F 6
+D 7
+F 6
+W 10
+F 7
+P
+W 3
+D 9
+S 8
+S 1
+A 8
+F 4
+W 5
+W 8
+W 4
+F 5
+F 4
+D 1
+D 3
+F 7
+D 8
+P
+W 10
+A 1
+A 2
+W 6
+S 1
+S 5
+P
+S 4
+P
+A 2
+S 4
+D 8
+S 1
+F 5
+S 3
+A 1
+P
+S 8
+S 2
+D 8
+F 1
+S 6
+S 3
+W 8
+P
+S 5
+P
+A 9
+P
+D 9
+D 4
+P
+W 5
+F 6
+S 10
+W 7
+W 2
+S 10
+A 5
+S 4
+W 9
+F 7
+F 4
+F 3
+P
+F 1
+A 7
+P
+F 1
+A 4
+D 6
+P
+D 7
+P
+S 3
+D 8
+D 4
+P
+D 6
+S 4
+P
+F 5
+D 10
+A 5
+W 8
+F 6
+A 4
+D 4
+D 1
+A 4
+P
+W 2
+P
+F 0
+A 10
+A 1
+S 8
+P
+A 3
+S 8
+A 5
+A 4
+A 7
+P
+F 6
+D 6
+D 8
+F 4
+D 7
+S 10
+P
+W 8
+W 9
+S 3
+P
+A 10
+W 1
+S 6
+F 8
+P
+A 2
+W 6
+D 9
+A 9
+P
+W 5
+P
+S 5
+F 8
+W 8
+F 1
+F 9
+A 8
+F 8
+S 10
+W 9
+F 1
+F 4
+D 4
+F 6
+W 6
+F 3
+D 3
+P
+S 5
+W 7
+F 4
+P
+W 6
+A 1
+S 10
+A 8
+F 6
+W 7
+D 4
+S 9
+S 2
+P
+F 1
+P
+F 8
+P
+D 6
+P
+W 5
+W 4
+D 4
+W 10
+F 2
+D 2
+A 1
+P
+S 4
+F 7
+S 5
+F 9
+W 3
+F 3
+S 10
+A 3
+P
+D 5
+D 9
+F 3
+P
+W 2
+F 2
+P
+S 1
+S 1
+A 2
+S 2
+W 8
+D 4
+A 8
+A 4
+S 5
+S 4
+D 2
+P
+F 5
+W 8
+A 3
+S 7
+S 8
+S 7
+A 8
+A 8
+D 8
+P
+S 9
+D 9
+S 10
+A 3
+P
+W 9
+S 8
+W 2
+W 7
+P
+A 7
+P
+W 8
+D 1
+A 10
+P
+F 0
+D 9
+S 6
+D 9
+D 2
+F 3
+A 7
+S 6
+D 5
+P
+A 2
+F 0
+W 2
+P
+W 3
+A 8
+W 10
+A 1
+P
+F 3
+F 3
+S 8
+D 7
+W 1
+S 3
+P
+F 6
+F 1
+A 6
+S 3
+A 7
+P
+W 2
+F 1
+S 1
+D 3
+D 4
+D 9
+D 5
+F 9
+A 8
+S 10
+P
+D 9
+A 10
+W 1
+A 3
+F 6
+A 5
+S 1
+D 5
+A 1
+F 6
+P
+W 5
+P
+F 3
+P
+W 10
+P
+D 3
+D 1
+W 10
+W 4
+W 1
+F 2
+D 9
+S 1
+D 10
+S 4
+A 6
+W 5
+S 8
+A 9
+A 1
+A 5
+F 8
+S 7
+F 1
+P
+D 5
+S 1
+S 10
+P
+S 8
+P
+A 5
+A 4
+D 6
+A 2
+A 5
+S 8
+S 5
+A 7
+P
+A 4
+A 4
+P
+D 10
+F 5
+A 4
+S 9
+W 9
+P
+S 9
+A 2
+D 2
+P
+S 2
+W 10
+A 9
+W 8
+S 6
+A 3
+S 4
+P
+A 6
+S 5
+F 4
+D 2
+F 3
+W 1
+P
+S 9
+D 6
+P
+D 4
+A 4
+D 1
+A 6
+P
+F 1
+W 3
+D 3
+S 4
+S 5
+A 3
+S 8
+A 10
+F 6
+F 7
+A 6
+S 7
+S 1
+P
+F 7
+W 7
+F 4
+A 1
+F 9
+D 10
+W 9
+A 7
+F 3
+P
+D 1
+W 5
+A 2
+D 5
+A 5
+D 2
+S 8
+P
+W 9
+W 5
+S 7
+P
+D 2
+A 2
+P
+S 2
+S 8
+S 5
+A 10
+S 2
+D 2
+F 9
+F 9
+F 7
+A 3
+P
+F 8
+A 4
+F 3
+A 9
+P
+W 3
+P
+D 3
+A 7
+S 3
+D 10
+F 5
+A 6
+W 8
+W 3
+A 1
+S 10
+D 2
+P
+W 1
+P
+D 4
+P
+W 1
+F 9
+F 0
+D 8
+S 10
+A 7
+W 5
+D 9
+P
+W 6
+D 5
+A 6
+W 7
+W 2
+W 4
+A 6
+W 6
+A 1
+D 2
+D 10
+F 7
+F 4
+W 7
+W 3
+W 6
+F 6
+S 6
+D 8
+D 8
+F 1
+D 3
+D 2
+P
+S 8
+A 6
+D 9
+D 7
+F 7
+A 10
+F 4
+A 1
+P
+D 9
+P
+W 6
+W 5
+F 5
+S 5
+F 7
+P
+A 3
+W 10
+F 0
+W 6
+W 6
+F 8
+S 5
+P
+D 4
+P
+A 2
+A 2
+P
+F 4
+W 9
+P
+D 4
+W 3
+P
+F 0
+F 3
+P
+S 5
+D 10
+A 8
+F 3
+S 6
+A 6
+W 6
+P
+A 3
+D 2
+F 8
+D 8
+S 7
+W 4
+W 6
+D 4
+P
+D 1
+D 4
+P
+D 6
+A 5
+S 5
+S 3
+F 5
+D 8
+S 3
+F 5
+P
+S 10
+D 5
+D 9
+D 7
+P
+W 3
+S 4
+F 3
+S 4
+A 7
+D 5
+D 3
+D 9
+A 6
+D 8
+A 1
+W 8
+A 8
+A 9
+D 8
+D 6
+P
+F 8
+F 3
+W 4
+D 2
+P
+A 3
+P
+D 5
+A 1
+D 4
+P
+A 2
+P
+A 6
+F 3
+P
+A 3
+S 5
+F 5
+P
+W 9
+P
+D 3
+D 6
+A 1
+F 1
+D 5
+W 3
+S 2
+A 5
+P
+F 1
+S 2
+A 2
+A 10
+D 2
+W 4
+W 3
+D 4
+D 5
+A 10
+W 1
+W 9
+S 5
+F 9
+D 1
+P
+D 7
+W 6
+S 1
+P
+F 2
+W 1
+D 7
+S 10
+P
+W 1
+A 8
+A 3
+W 10
+W 2
+W 6
+W 7
+F 5
+A 6
+A 7
+F 2
+F 8
+S 3
+D 3
+S 10
+W 6
+S 1
+D 5
+D 2
+P
+A 9
+W 7
+F 1
+P
+D 3
+W 1
+S 10
+W 9
+A 1
+F 5
+S 6
+P
+F 9
+F 2
+P
+S 7
+F 5
+F 1
+D 6
+A 3
+A 4
+W 4
+W 10
+P
+W 10
+S 9
+W 8
+P
+W 6
+S 1
+A 8
+P
+W 3
+D 3
+S 7
+A 3
+A 2
+W 6
+P
+S 7
+D 6
+W 6
+W 8
+W 9
+P
+F 6
+F 8
+D 5
+F 4
+S 7
+D 8
+S 8
+F 6
+F 7
+W 2
+D 1
+F 0
+W 1
+A 8
+F 8
+A 6
+D 2
+W 1
+S 8
+W 9
+W 8
+A 9
+W 4
+A 5
+A 5
+F 5
+A 6
+W 9
+D 4
+D 8
+P
+F 8
+D 8
+S 8
+D 10
+F 1
+A 1
+D 9
+W 5
+F 5
+W 5
+F 1
+A 10
+A 8
+A 6
+D 5
+S 2
+W 4
+W 7
+D 2
+P
+A 5
+S 6
+A 3
+S 10
+P
+F 8
+S 2
+D 4
+D 7
+D 3
+D 1
+A 2
+D 10
+A 2
+F 6
+S 10
+D 8
+D 7
+W 5
+D 1
+W 9
+F 4
+S 7
+P
+W 1
+F 6
+F 5
+W 2
+A 10
+A 6
+A 3
+A 8
+S 5
+W 2
+P
+W 5
+S 9
+S 2
+S 8
+W 8
+P
+S 3
+A 10
+F 6
+F 1
+F 8
+A 1
+S 3
+P
+W 9
+F 0
+W 8
+D 3
+P
+F 1
+P
+S 2
+W 9
+W 7
+A 4
+F 7
+S 1
+W 8
+A 6
+D 5
+F 0
+S 8
+P
+W 5
+W 4
+A 2
+W 6
+S 5
+S 6
+W 7
+P
+S 6
+P
+F 1
+F 0
+P
+A 2
+A 7
+P
+A 2
+S 10
+W 2
+P
+W 8
+A 8
+A 6
+W 8
+P
+S 8
+D 9
+P
+W 10
+A 3
+S 1
+W 2
+P
+D 10
+A 7
+D 8
+F 0
+P
+W 8
+A 3
+F 7
+W 9
+W 4
+D 10
+D 2
+A 4
+P
+F 1
+A 8
+S 5
+P
+W 4
+D 4
+P
+F 4
+D 5
+W 8
+D 4
+P
+F 1
+D 4
+D 5
+D 6
+W 5
+A 10
+P
+A 7
+F 3
+A 2
+A 9
+S 10
+F 0
+F 3
+P
+W 9
+D 9
+S 10
+P
+W 4
+P
+F 5
+S 10
+F 8
+P
+A 4
+P
+F 8
+D 9
+F 5
+S 6
+P
+D 6
+A 5
+S 9
+W 6
+P
+W 10
+W 10
+S 3
+F 3
+W 6
+S 6
+W 10
+D 2
+W 7
+D 4
+F 8
+W 1
+W 5
+P
+W 2
+F 2
+F 0
+A 1
+A 7
+P
+S 3
+F 3
+F 2
+W 10
+P
+A 7
+D 7
+F 4
+F 7
+F 0
+D 9
+A 8
+A 1
+D 8
+F 8
+W 3
+D 1
+A 3
+S 5
+P
+A 10
+S 6
+W 8
+P
+A 2
+S 10
+W 10
+W 4
+F 3
+W 5
+W 2
+A 9
+W 3
+F 4
+S 7
+S 6
+W 9
+F 5
+D 7
+S 6
+S 7
+A 9
+D 1
+W 8
+D 1
+S 1
+S 5
+A 10
+P
+W 10
+P
+F 3
+W 10
+P
+S 8
+F 6
+W 8
+W 10
+F 8
+F 6
+F 7
+P
+W 5
+D 3
+F 9
+A 7
+S 3
+P
+W 1
+S 1
+W 6
+F 6
+D 8
+S 1
+W 3
+S 4
+S 10
+P
+F 5
+F 4
+A 7
+D 1
+S 7
+W 1
+W 3
+F 3
+A 1
+W 5
+A 10
+A 7
+S 1
+P
+W 10
+D 4
+F 7
+W 10
+W 9
+A 3
+A 4
+W 8
+D 5
+F 2
+A 10
+W 4
+W 10
+D 7
+S 3
+W 5
+D 7
+W 2
+A 6
+P
+D 2
+S 9
+F 2
+D 1
+S 1
+S 8
+W 5
+F 1
+F 7
+A 8
+P
+W 8
+F 8
+P
+W 6
+P
+A 1
+F 4
+P
+W 3
+S 8
+P
+S 4
+D 1
+A 2
+A 7
+W 10
+P
+W 10
+D 4
+W 8
+S 7
+D 9
+W 5
+F 8
+F 3
+D 3
+D 2
+F 4
+D 6
+F 5
+P
+D 5
+W 3
+F 3
+F 3
+S 10
+D 8
+W 8
+S 10
+S 4
+A 5
+P
+F 8
+A 2
+S 4
+S 3
+D 7
+W 3
+W 6
+D 2
+S 8
+S 8
+S 8
+D 9
+D 5
+D 8
+A 3
+A 3
+P
+W 9
+F 9
+A 9
+D 1
+D 4
+S 6
+F 5
+S 1
+F 5
+W 8
+A 4
+W 5
+F 7
+A 5
+W 10
+S 7
+W 1
+F 1
+D 2
+A 4
+F 3
+D 8
+D 9
+P
+W 5
+A 5
+A 7
+P
+W 4
+D 10
+F 0
+D 4
+S 10
+A 10
+A 9
+D 1
+A 2
+P
+D 3
+A 1
+F 0
+P
+S 1
+S 5
+P
+D 4
+A 8
+W 4
+W 5
+A 2
+D 7
+S 9
+F 9
+A 1
+P
+F 6
+P
+A 5
+W 1
+S 4
+W 7
+A 4
+F 5
+P
+D 6
+A 10
+W 2
+S 8
+S 2
+D 10
+W 7
+A 5
+P
+D 1
+D 7
+F 5
+D 7
+W 6
+P
+A 6
+F 2
+F 1
+P
+F 5
+S 3
+P
+A 8
+S 5
+F 7
+W 3
+D 2
+F 4
+A 2
+D 7
+F 9
+F 4
+D 2
+P
+F 1
+F 5
+S 7
+W 6
+D 7
+P
+S 3
+S 10
+D 3
+P
+D 3
+P
+W 1
+D 5
+P
+W 6
+F 1
+D 1
+S 3
+F 2
+D 8
+W 3
+A 9
+S 7
+P
+W 6
+A 1
+P
+A 2
+P
+D 4
+A 9
+P
+D 6
+P
+S 5
+A 1
+A 7
+F 0
+A 2
+A 10
+W 10
+S 1
+P
+D 10
+D 1
+D 7
+A 9
+W 9
+A 9
+D 6
+W 6
+P
+F 3
+W 5
+P
+D 4
+S 4
+S 7
+A 2
+F 9
+S 10
+P
+S 9
+F 1
+D 10
+D 9
+P
+A 3
+S 5
+S 4
+A 10
+W 5
+S 8
+W 4
+P
+F 7
+P
+S 1
+W 2
+A 9
+D 5
+S 3
+A 9
+W 8
+P
+A 8
+D 2
+S 2
+P
+S 1
+S 8
+W 8
+F 1
+W 10
+A 4
+F 6
+W 10
+S 3
+W 3
+A 9
+A 5
+W 10
+D 5
+D 2
+F 4
+F 7
+W 2
+D 4
+D 4
+A 7
+S 10
+D 2
+A 1
+P
+F 0
+A 4
+S 4
+D 1
+W 9
+A 4
+F 9
+D 10
+P
+S 10
+A 2
+D 10
+D 10
+F 7
+A 5
+S 5
+A 6
+W 6
+S 3
+S 8
+W 2
+D 2
+A 2
+F 3
+F 3
+F 0
+P
+A 10
+S 1
+W 2
+F 0
+S 5
+P
+F 2
+S 3
+D 8
+P
+S 10
+F 0
+A 1
+F 3
+D 9
+F 1
+S 3
+P
+F 8
+S 2
+S 8
+W 1
+D 10
+W 1
+W 6
+W 2
+A 4
+W 9
+P
+W 2
+P
+S 5
+D 3
+A 2
+D 9
+P
+A 1
+P
+W 9
+D 3
+W 10
+D 7
+D 4
+D 10
+S 6
+W 8
+P
+W 6
+W 5
+F 4
+W 8
+D 4
+D 10
+W 1
+P
+S 9
+P
+D 1
+F 4
+S 8
+W 5
+D 2
+P
+D 1
+P
+W 9
+S 5
+S 5
+F 6
+F 6
+P
+A 5
+P
+W 5
+S 2
+F 2
+D 10
+D 2
+P
+W 5
+D 8
+P
+S 4
+W 10
+F 4
+A 8
+S 2
+D 9
+W 7
+S 7
+S 10
+D 2
+D 3
+F 1
+F 0
+A 8
+F 9
+F 7
+S 6
+W 8
+P
+W 2
+F 8
+P
+A 7
+F 6
+W 9
+W 3
+D 6
+P
+D 1
+S 6
+F 8
+F 5
+A 2
+W 8
+F 7
+P
+F 0
+F 0
+S 2
+A 5
+D 10
+S 6
+F 7
+W 2
+D 10
+D 1
+P
+D 6
+P
+F 0
+P
+D 2
+W 8
+W 5
+P
+F 5
+W 6
+F 4
+P
+F 6
+F 4
+S 2
+P
+W 2
+A 9
+P
+S 8
+A 1
+F 1
+W 2
+D 1
+P
+F 8
+W 4
+F 8
+A 10
+S 1
+W 2
+A 9
+D 6
+A 10
+A 7
+A 7
+W 5
+D 4
+F 9
+A 5
+A 2
+P
+D 10
+F 1
+W 1
+F 5
+D 9
+P
+W 5
+W 6
+W 2
+W 5
+S 7
+W 6
+S 7
+W 3
+W 7
+D 4
+A 6
+S 8
+A 5
+D 4
+P
+W 9
+P
+S 6
+S 6
+A 3
+D 7
+S 1
+F 0
+A 8
+A 7
+S 8
+D 5
+A 2
+P
+S 3
+D 5
+S 7
+F 5
+A 6
+S 6
+D 9
+S 6
+P
+D 6
+A 5
+S 10
+S 2
+P
+A 10
+F 3
+A 7
+W 1
+D 9
+W 6
+F 1
+A 8
+W 6
+F 8
+A 7
+A 10
+D 3
+D 6
+A 9
+W 10
+D 6
+A 7
+W 6
+W 4
+F 8
+D 10
+F 7
+F 8
+A 5
+F 5
+F 0
+D 6
+P
+S 7
+A 1
+W 3
+A 1
+W 1
+W 7
+D 5
+P
+S 9
+W 3
+F 0
+P
+W 1
+S 9
+F 3
+S 8
+W 5
+A 8
+A 2
+D 4
+W 5
+D 6
+D 6
+A 2
+S 2
+P
+F 6
+P
+S 8
+S 1
+W 5
+D 3
+W 10
+A 6
+F 5
+F 0
+W 6
+W 4
+S 5
+W 9
+W 10
+D 3
+A 6
+W 1
+F 1
+S 5
+A 3
+D 10
+P
+S 9
+P
+D 7
+P
+W 8
+D 6
+S 7
+S 9
+S 1
+D 4
+W 5
+S 7
+D 5
+D 8
+F 1
+F 5
+W 7
+F 7
+F 1
+W 2
+D 8
+D 10
+A 7
+P
+S 5
+S 5
+W 8
+W 6
+A 6
+W 8
+A 7
+D 2
+A 3
+P
+S 4
+D 10
+W 6
+P
+W 8
+A 1
+F 4
+P
+D 7
+S 9
+S 3
+D 8
+P
+W 7
+F 4
+W 10
+F 6
+S 9
+W 10
+S 3
+F 3
+A 2
+D 4
+F 8
+P
+F 5
+A 8
+D 10
+D 10
+W 10
+F 8
+P
+S 1
+D 2
+A 5
+A 3
+A 10
+S 10
+D 6
+S 10
+W 4
+W 5
+P
+F 7
+D 4
+S 3
+D 6
+P
+D 5
+D 7
+W 10
+A 5
+A 1
+F 7
+P
+A 9
+D 6
+F 6
+D 4
+D 1
+W 4
+F 8
+W 10
+A 10
+W 7
+W 7
+D 1
+P
+W 9
+A 6
+D 6
+D 2
+W 9
+P
+S 7
+S 6
+F 5
+A 6
+A 10
+D 2
+A 8
+A 8
+A 2
+D 7
+F 4
+P
+A 10
+W 1
+W 5
+F 6
+S 7
+W 10
+A 7
+D 5
+W 1
+D 4
+S 9
+D 1
+W 4
+W 10
+A 7
+F 1
+D 7
+W 4
+S 2
+A 5
+A 4
+W 1
+P
+F 4
+A 5
+D 9
+A 8
+F 1
+P
+S 9
+D 3
+A 7
+P
+F 8
+D 6
+F 2
+F 2
+D 3
+W 1
+A 7
+S 5
+F 7
+A 5
+W 10
+D 1
+P
+W 10
+W 10
+F 8
+A 10
+A 3
+D 2
+D 1
+P
+A 9
+P
+D 1
+W 4
+F 3
+W 4
+P
+D 7
+D 1
+D 1
+F 6
+F 9
+P
+W 1
+F 8
+S 9
+F 4
+P
+S 5
+P
+W 6
+S 4
+D 7
+P
+W 4
+P
+A 10
+P
+S 7
+A 7
+D 10
+F 5
+W 8
+W 4
+W 6
+S 6
+A 2
+P
+A 8
+W 6
+S 7
+A 8
+S 7
+F 2
+S 1
+D 10
+A 2
+S 10
+D 6
+F 9
+W 5
+A 5
+P
+S 2
+A 7
+A 4
+P
+D 9
+P
+D 7
+F 1
+D 10
+A 10
+S 9
+A 3
+A 5
+A 9
+A 9
+W 3
+D 6
+D 8
+D 4
+A 7
+S 1
+F 0
+F 2
+S 9
+P
+W 8
+P
+F 5
+D 5
+W 7
+P
+F 7
+A 3
+F 0
+D 5
+P
+D 5
+A 3
+A 7
+F 8
+A 5
+F 7
+W 6
+S 7
+F 2
+D 4
+P
+S 2
+A 8
+P
+A 6
+P
+A 7
+S 1
+A 3
+S 10
+S 2
+D 4
+S 10
+A 3
+W 8
+W 4
+A 8
+S 3
+D 9
+A 8
+F 5
+F 7
+W 4
+W 1
+A 9
+F 3
+D 3
+F 8
+F 4
+A 9
+D 1
+W 7
+P
+S 8
+S 4
+P
+S 5
+D 10
+D 8
+S 10
+P
+S 6
+P
+F 0
+D 7
+A 9
+P
+W 6
+D 4
+S 1
+A 9
+D 4
+W 6
+F 6
+P
+A 9
+W 1
+A 10
+D 6
+F 2
+D 2
+W 5
+S 8
+F 8
+F 0
+A 6
+F 5
+P
+F 9
+S 5
+A 3
+W 7
+A 4
+D 2
+W 2
+A 5
+A 6
+A 2
+F 8
+A 2
+A 8
+A 2
+D 5
+W 9
+F 1
+S 9
+D 10
+F 9
+S 6
+P
+A 9
+A 8
+P
+A 3
+D 2
+A 8
+D 1
+A 7
+D 8
+W 5
+S 2
+D 1
+A 6
+S 8
+A 6
+P
+A 8
+W 3
+W 6
+S 8
+D 2
+W 8
+A 2
+P
+A 2
+A 8
+D 1
+F 6
+S 10
+S 10
+F 8
+D 7
+W 10
+W 2
+S 5
+F 1
+S 4
+D 7
+W 7
+F 4
+W 4
+W 6
+P
+A 7
+P
+F 0
+S 5
+S 9
+W 1
+W 7
+P
+W 5
+D 1
+A 6
+D 6
+D 3
+W 3
+W 9
+D 6
+W 5
+A 7
+A 9
+S 2
+W 3
+F 1
+D 6
+S 3
+F 6
+F 8
+F 3
+W 6
+F 4
+A 6
+F 8
+S 7
+P
+F 0
+W 9
+W 1
+A 10
+S 2
+P
+F 0
+F 2
+S 9
+D 1
+F 2
+W 3
+P
+F 3
+S 5
+A 7
+F 4
+A 4
+W 2
+D 1
+S 6
+A 2
+F 3
+A 4
+S 8
+S 6
+P
+S 8
+D 5
+F 2
+F 5
+W 1
+F 1
+F 0
+A 2
+P
+A 4
+P
+D 1
+W 9
+S 3
+P
+A 2
+S 10
+P
+F 8
+S 7
+F 1
+P
+D 10
+A 10
+F 7
+S 3
+F 8
+F 2
+A 9
+F 2
+W 2
+A 8
+W 10
+A 9
+S 9
+W 5
+P
+A 8
+P
+A 8
+P
+S 7
+A 4
+W 1
+S 1
+A 2
+W 8
+P
+S 9
+W 1
+P
+S 9
+D 10
+P
+A 10
+A 6
+F 1
+A 9
+A 3
+A 2
+D 1
+S 1
+D 2
+D 5
+A 7
+S 6
+D 10
+F 7
+F 4
+S 6
+W 6
+F 6
+D 10
+P
+D 2
+W 9
+S 9
+S 3
+A 2
+F 9
+S 4
+F 4
+D 6
+F 0
+D 1
+S 9
+D 2
+A 4
+W 7
+D 7
+P
+A 7
+P
+W 7
+W 4
+S 9
+W 6
+D 9
+D 5
+A 4
+S 5
+D 10
+P
+F 5
+W 2
+D 6
+W 6
+D 4
+S 8
+A 10
+W 4
+A 5
+P
+D 5
+W 8
+S 7
+P
+A 2
+P
+W 5
+W 4
+W 10
+W 9
+A 3
+W 1
+S 8
+F 4
+S 7
+W 4
+A 3
+W 7
+F 8
+A 1
+W 4
+S 10
+D 8
+D 2
+F 5
+F 6
+D 6
+F 2
+P
+A 1
+P
+F 9
+D 8
+S 8
+D 5
+D 6
+F 5
+F 5
+P
+A 9
+P
+D 6
+F 7
+F 6
+F 6
+P
+W 9
+S 2
+W 10
+P
+A 7
+S 2
+D 4
+W 5
+P
+A 1
+D 6
+P
+D 7
+S 2
+P
+D 9
+F 2
+F 5
+S 2
+A 5
+A 3
+S 7
+A 7
+F 7
+S 2
+P
+W 2
+F 2
+D 4
+W 10
+S 6
+W 6
+D 5
+A 2
+A 6
+F 1
+P
+W 2
+P
+S 6
+P
+S 8
+D 9
+F 4
+W 2
+P
+F 9
+P
+F 6
+A 10
+D 1
+D 4
+F 7
+P
+A 9
+S 3
+P
+S 2
+A 8
+F 3
+P
+W 8
+W 10
+D 5
+P
+A 4
+S 7
+P
+D 10
+S 5
+W 3
+D 6
+P
+D 2
+S 6
+S 1
+W 7
+D 3
+A 6
+W 4
+P
+W 7
+W 4
+D 7
+W 6
+D 5
+A 3
+D 4
+A 10
+A 6
+W 5
+A 2
+W 9
+A 5
+P
+W 4
+S 4
+P
+W 3
+P
+W 7
+P
+D 9
+S 10
+W 5
+W 6
+P
+A 9
+P
+F 6
+A 10
+S 8
+S 6
+A 5
+A 2
+F 9
+D 5
+P
+W 7
+P
+W 5
+F 7
+F 6
+A 2
+D 2
+A 4
+P
+W 9
+D 10
+W 4
+F 6
+D 2
+D 1
+P
+D 5
+S 2
+F 7
+D 4
+A 6
+P
+W 4
+A 1
+W 1
+D 7
+D 6
+D 8
+A 6
+A 4
+F 8
+A 10
+F 3
+S 10
+S 7
+D 6
+D 4
+P
+F 9
+A 4
+W 8
+D 1
+P
+D 1
+S 4
+S 7
+P
+S 4
+S 4
+S 9
+F 7
+S 10
+S 9
+A 4
+P
+F 3
+W 4
+F 6
+W 7
+P
+S 1
+S 2
+D 3
+P
+S 5
+D 2
+P
+W 7
+F 7
+S 5
+F 2
+A 8
+P
+F 9
+P
+D 8
+D 1
+F 2
+S 2
+A 9
+P
+D 9
+F 5
+F 6
+S 7
+F 7
+A 4
+A 3
+A 6
+W 2
+D 1
+F 2
+A 9
+P
+W 3
+S 9
+W 2
+P
+D 1
+W 6
+S 5
+F 6
+F 1
+S 7
+F 1
+A 5
+W 9
+D 2
+W 7
+W 7
+W 10
+P
+W 10
+P
+S 2
+P
+A 6
+A 8
+F 9
+A 3
+S 4
+S 3
+F 0
+D 3
+S 5
+A 9
+A 5
+F 9
+D 6
+W 4
+S 1
+S 9
+W 10
+F 1
+F 9
+D 4
+D 6
+A 2
+A 5
+D 1
+A 6
+W 7
+S 6
+P
+W 9
+P
+D 3
+F 3
+D 9
+A 1
+D 10
+W 9
+D 2
+W 5
+F 6
+P
+A 9
+S 2
+D 4
+A 10
+D 2
+A 5
+S 1
+P
+D 3
+P
+D 4
+D 5
+A 3
+D 10
+D 8
+F 2
+W 7
+A 3
+S 7
+P
+W 3
+S 4
+W 5
+W 9
+W 1
+F 0
+S 6
+S 5
+W 7
+P
+A 7
+A 4
+W 5
+S 2
+A 4
+P
+F 1
+P
+A 10
+A 7
+F 7
+W 5
+A 6
+S 9
+P
+S 2
+A 10
+S 9
+A 9
+P
+D 4
+S 5
+P
+S 1
+D 2
+W 8
+D 8
+F 9
+S 1
+P
+F 1
+D 6
+D 9
+S 9
+D 7
+W 8
+P
+A 4
+A 7
+P
+F 9
+A 3
+F 6
+S 8
+A 7
+W 10
+S 5
+F 2
+A 7
+P
+F 1
+D 7
+W 9
+W 7
+P
+A 3
+W 2
+S 10
+S 6
+W 9
+W 7
+D 4
+A 3
+D 5
+A 5
+P
+D 5
+F 8
+D 9
+F 3
+A 9
+D 5
+W 5
+A 5
+D 4
+S 8
+W 1
+W 1
+A 7
+F 6
+S 5
+A 10
+D 5
+P
+F 6
+W 9
+W 2
+D 1
+D 8
+A 10
+A 4
+W 1
+W 8
+P
+D 5
+S 3
+P
+S 2
+W 8
+P
+W 5
+F 1
+P
+F 7
+P
+F 8
+D 3
+D 3
+P
+D 2
+P
+F 6
+D 3
+P
+F 3
+W 6
+D 9
+F 6
+D 3
+A 2
+S 4
+A 6
+W 3
+A 3
+A 5
+A 3
+F 9
+S 6
+W 1
+P
+W 6
+P
+A 8
+A 10
+A 1
+P
+A 7
+P
+A 10
+W 8
+S 6
+F 3
+A 7
+S 1
+D 6
+S 5
+P
+A 2
+A 8
+A 5
+F 3
+S 3
+F 7
+W 4
+A 5
+A 5
+W 5
+A 8
+W 2
+S 3
+S 3
+A 1
+P
+S 10
+S 7
+A 2
+A 10
+A 4
+F 8
+S 8
+D 3
+S 2
+W 3
+W 10
+A 7
+W 3
+S 7
+D 2
+D 5
+A 6
+S 8
+A 8
+F 1
+D 10
+S 4
+S 6
+A 6
+D 9
+P
+W 4
+S 5
+S 9
+F 9
+W 6
+P
+S 9
+F 4
+S 8
+A 9
+A 4
+P
+F 8
+P
+W 6
+W 7
+D 6
+W 9
+W 5
+D 9
+P
+A 1
+S 9
+S 6
+D 9
+D 3
+A 5
+F 5
+F 3
+F 8
+D 5
+W 3
+W 2
+A 1
+D 6
+P
+A 10
+F 4
+F 2
+P
+S 6
+F 0
+P
+A 8
+A 4
+A 9
+F 5
+A 9
+D 4
+A 4
+S 5
+W 2
+A 8
+S 3
+F 0
+P
+D 6
+A 7
+S 5
+D 8
+P
+D 4
+W 4
+P
+A 9
+A 2
+P
+S 8
+D 5
+F 4
+D 10
+A 4
+D 5
+S 8
+P
+S 7
+S 3
+F 9
+S 9
+F 8
+A 4
+W 5
+P
+A 7
+A 9
+P
+W 6
+F 2
+S 5
+W 1
+W 7
+S 7
+F 7
+P
+A 7
+P
+A 9
+S 3
+D 2
+S 1
+S 8
+F 7
+F 7
+W 1
+D 4
+D 1
+W 5
+A 4
+W 6
+D 7
+S 1
+W 2
+A 3
+S 6
+S 8
+A 9
+F 2
+P
+F 2
+F 2
+F 6
+A 6
+P
+W 1
+W 7
+A 5
+W 9
+D 10
+D 10
+F 9
+D 2
+S 10
+F 8
+P
+S 1
+S 6
+W 4
+P
+W 5
+F 5
+W 5
+F 7
+P
+D 10
+D 3
+W 3
+P
+W 5
+P
+D 6
+F 8
+D 1
+W 4
+D 6
+F 7
+A 10
+D 10
+A 2
+A 9
+F 5
+S 3
+P
+W 3
+S 4
+F 2
+A 9
+D 10
+D 1
+S 6
+D 7
+F 5
+P
+F 0
+A 5
+D 5
+P
+A 9
+A 10
+F 6
+F 7
+W 1
+W 9
+S 3
+P
+S 2
+S 2
+D 4
+P
+F 9
+S 5
+W 4
+D 7
+P
+F 8
+W 9
+D 4
+D 6
+S 7
+A 9
+D 7
+F 7
+S 7
+F 4
+P
+F 3
+P
+D 5
+S 8
+P
+W 3
+S 1
+W 4
+A 1
+A 9
+S 7
+W 4
+P
+A 3
+A 9
+P
+W 4
+W 2
+W 8
+W 10
+A 8
+D 5
+A 9
+D 1
+D 2
+F 8
+P
+D 4
+S 1
+A 9
+D 2
+W 3
+W 6
+D 3
+A 1
+W 10
+W 5
+A 8
+D 2
+A 9
+F 0
+D 3
+F 2
+D 10
+F 6
+A 2
+F 0
+P
+W 3
+S 4
+P
+W 8
+A 10
+P
+S 4
+A 1
+S 2
+D 4
+A 7
+P
+S 1
+W 8
+W 1
+A 2
+S 10
+P
+W 7
+F 7
+A 7
+S 1
+F 7
+S 2
+P
+F 1
+W 5
+A 7
+P
+D 8
+S 1
+P
+W 9
+S 9
+S 9
+P
+A 8
+S 10
+F 4
+A 7
+S 1
+W 7
+S 1
+A 5
+A 2
+S 4
+A 1
+W 2
+F 0
+F 6
+S 5
+S 7
+F 4
+P
+W 4
+F 5
+A 10
+A 5
+W 7
+S 8
+W 9
+A 3
+S 2
+S 5
+A 10
+S 9
+S 1
+A 2
+P
+D 1
+W 1
+P
+S 8
+D 5
+W 7
+D 1
+P
+A 9
+D 8
+P
+W 9
+D 8
+A 5
+P
+A 5
+A 10
+P
+S 7
+S 7
+A 1
+D 7
+F 0
+S 4
+F 6
+P
+D 2
+S 10
+W 10
+S 1
+W 7
+A 5
+S 10
+A 2
+D 8
+F 4
+S 2
+P
+A 9
+W 8
+D 6
+P
+F 7
+W 6
+D 3
+S 1
+D 1
+F 9
+W 3
+W 3
+S 6
+F 1
+D 10
+P
+D 9
+P
+W 9
+A 8
+F 7
+P
+F 3
+D 7
+F 8
+W 1
+P
+W 5
+W 7
+P
+W 7
+P
+W 3
+A 8
+A 10
+F 0
+F 0
+S 2
+F 4
+A 9
+A 8
+S 2
+F 9
+F 0
+A 3
+A 6
+P
+A 5
+F 2
+F 9
+W 4
+F 7
+P
+D 5
+S 7
+S 7
+P
+F 3
+S 8
+F 0
+A 6
+A 9
+W 5
+S 9
+F 9
+F 2
+D 4
+A 5
+P
+D 5
+W 4
+S 2
+P
+F 3
+P
+F 2
+P
+S 2
+S 4
+D 1
+A 9
+W 8
+S 1
+F 5
+D 10
+S 1
+D 2
+P
+A 5
+S 4
+D 4
+P
+W 1
+W 6
+S 7
+A 6
+P
+D 5
+S 8
+S 2
+P
+D 3
+F 8
+S 8
+S 3
+D 7
+W 2
+S 10
+S 1
+S 4
+F 3
+A 3
+F 4
+W 7
+F 0
+D 1
+S 9
+P
+W 10
+A 10
+P
+S 2
+S 3
+F 1
+W 8
+A 10
+W 5
+F 6
+F 9
+F 6
+S 7
+D 2
+A 9
+W 8
+D 8
+S 1
+D 10
+S 4
+S 9
+F 6
+D 1
+D 9
+D 3
+D 1
+S 9
+W 3
+S 9
+A 3
+A 8
+S 8
+S 6
+F 9
+P
+S 9
+F 9
+P
+W 8
+A 3
+F 5
+S 5
+D 8
+D 2
+A 9
+W 1
+F 4
+F 7
+D 2
+P
+D 9
+S 4
+P
+D 1
+W 10
+D 1
+A 5
+A 3
+W 7
+P
+S 1
+A 8
+P
+A 3
+A 8
+W 10
+P
+F 8
+W 3
+P
+D 1
+F 2
+D 6
+A 2
+S 3
+P
+S 1
+S 7
+D 10
+F 6
+F 4
+F 6
+A 2
+W 5
+P
+D 3
+W 2
+F 5
+S 2
+A 10
+P
+F 3
+S 7
+W 10
+P
+S 7
+W 1
+P
+A 6
+S 8
+D 10
+A 7
+W 8
+P
+F 3
+S 9
+S 5
+D 4
+F 8
+A 3
+P
+A 9
+D 7
+P
+W 8
+W 5
+S 7
+W 9
+A 9
+D 3
+A 1
+F 3
+W 1
+S 2
+A 6
+P
+D 7
+A 1
+D 1
+P
+D 3
+W 4
+F 5
+F 6
+W 1
+P
+F 5
+A 2
+A 8
+S 7
+F 4
+F 4
+P
+A 6
+P
+W 6
+S 2
+A 5
+W 2
+A 10
+W 2
+A 1
+W 3
+F 1
+W 3
+W 5
+F 8
+F 5
+D 5
+W 8
+S 6
+P
+S 7
+A 8
+F 0
+D 7
+A 10
+S 5
+S 3
+F 2
+P
+A 4
+A 7
+S 8
+S 6
+S 5
+F 3
+W 3
+D 1
+P
+D 1
+W 9
+P
+D 4
+D 9
+W 4
+D 5
+A 4
+D 6
+A 6
+P
+W 5
+S 8
+S 10
+F 3
+S 10
+F 6
+S 8
+S 6
+F 4
+P
+W 2
+S 4
+D 7
+P
+F 0
+A 10
+F 6
+D 8
+A 6
+A 5
+A 9
+S 7
+W 1
+A 8
+F 7
+D 4
+S 7
+P
+W 3
+P
+W 6
+W 9
+P
+A 5
+D 7
+F 1
+D 7
+D 10
+D 4
+F 9
+A 3
+D 3
+W 8
+W 6
+W 10
+D 3
+P
+F 0
+W 3
+D 7
+D 6
+P
+A 1
+P
+A 10
+F 5
+D 9
+P
+W 10
+D 8
+S 2
+A 6
+A 4
+P
+F 5
+A 10
+F 1
+A 3
+W 10
+S 4
+W 1
+P
+S 3
+W 10
+A 2
+D 4
+W 6
+A 9
+W 6
+W 4
+S 3
+P
+F 3
+F 3
+W 8
+S 4
+A 7
+P
+D 4
+S 1
+A 10
+W 5
+S 6
+A 7
+D 3
+A 5
+D 7
+W 4
+P
+S 2
+S 6
+A 10
+W 2
+S 10
+P
+A 2
+A 4
+S 2
+F 5
+P
+F 0
+F 0
+W 10
+F 8
+D 9
+F 9
+A 6
+F 9
+S 9
+D 3
+P
+F 7
+P
+S 9
+F 7
+D 2
+F 7
+A 4
+P
+A 2
+D 5
+A 4
+F 6
+W 9
+W 3
+S 1
+F 9
+F 3
+D 1
+W 8
+P
+D 7
+A 2
+F 2
+S 7
+P
+W 9
+A 3
+A 2
+P
+F 4
+W 3
+D 6
+F 3
+W 10
+F 4
+P
+D 3
+S 2
+D 4
+S 2
+S 10
+D 7
+P
+A 3
+D 5
+D 1
+D 5
+W 5
+P
+D 9
+A 7
+P
+D 10
+D 8
+W 8
+P
+W 9
+A 3
+A 8
+A 10
+F 0
+P
+W 2
+S 4
+F 4
+W 2
+A 10
+S 8
+A 5
+S 1
+S 10
+D 10
+F 9
+D 3
+W 3
+F 0
+S 8
+F 7
+D 2
+A 9
+P
+A 10
+S 2
+D 6
+W 3
+S 2
+D 3
+S 6
+F 1
+D 6
+S 10
+F 0
+W 3
+P
+S 10
+F 6
+D 5
+W 2
+F 7
+F 1
+P
+F 6
+D 4
+A 2
+W 10
+F 3
+W 10
+P
+D 4
+D 3
+D 10
+W 9
+W 2
+S 4
+P
+S 4
+W 3
+A 3
+D 10
+D 1
+S 10
+A 10
+D 2
+F 8
+P
+W 4
+D 9
+P
+A 7
+S 7
+P
+D 9
+S 8
+D 10
+P
+D 10
+P
+D 10
+A 10
+W 4
+P
+S 3
+W 10
+W 3
+A 2
+D 9
+S 2
+D 1
+A 9
+W 2
+F 5
+D 2
+D 1
+A 5
+P
+A 10
+S 7
+A 1
+A 4
+W 3
+P
+S 8
+F 3
+W 6
+F 5
+F 0
+A 6
+W 5
+S 7
+F 0
+F 6
+A 4
+A 3
+F 4
+P
+W 3
+S 4
+P
+D 3
+D 8
+P
+F 1
+D 4
+P
+F 0
+F 2
+W 8
+S 4
+F 2
+W 3
+P
+W 1
+P
+F 6
+A 3
+A 4
+W 3
+A 9
+S 4
+F 8
+D 3
+A 1
+W 2
+F 0
+D 3
+D 4
+A 10
+F 7
+D 5
+P
+A 3
+F 0
+P
+A 3
+W 4
+D 2
+A 6
+F 2
+P
+A 1
+D 1
+F 7
+A 9
+S 2
+F 5
+A 6
+A 10
+P
+A 6
+F 6
+F 6
+D 7
+D 3
+A 2
+D 6
+D 4
+S 6
+W 7
+F 5
+W 8
+W 4
+F 5
+S 3
+A 6
+P
+F 0
+S 6
+D 3
+A 6
+F 5
+S 8
+F 2
+F 9
+F 4
+F 8
+D 7
+S 8
+P
+W 2
+W 6
+F 3
+S 2
+P
+D 4
+P
+W 7
+W 8
+A 5
+S 5
+F 7
+W 1
+A 6
+S 6
+W 2
+A 1
+W 6
+A 6
+A 3
+W 1
+A 1
+P
+F 7
+W 7
+P
+D 10
+W 2
+A 1
+D 4
+P
+W 7
+W 8
+D 7
+S 4
+D 6
+W 2
+F 4
+S 8
+W 4
+F 9
+P
+F 3
+A 7
+A 8
+S 2
+F 0
+P
+D 1
+F 1
+S 3
+D 2
+F 2
+W 2
+S 10
+W 3
+P
+A 7
+S 10
+A 8
+W 2
+A 10
+F 8
+F 8
+S 10
+F 8
+W 5
+A 6
+W 1
+D 1
+F 0
+S 9
+A 9
+F 6
+F 4
+A 9
+F 2
+F 0
+A 1
+S 6
+F 5
+A 1
+S 1
+W 10
+A 3
+A 1
+A 9
+F 0
+F 6
+S 5
+F 1
+S 5
+P
+F 6
+W 7
+A 2
+A 1
+P
+F 7
+F 9
+W 7
+A 1
+D 4
+D 3
+F 8
+S 5
+S 2
+D 9
+S 5
+W 10
+F 4
+S 3
+P
+D 9
+W 4
+D 3
+S 7
+S 4
+P
+F 7
+F 0
+S 2
+W 4
+P
+A 6
+D 7
+W 6
+P
+D 2
+F 0
+D 10
+W 5
+A 2
+P
+F 1
+D 1
+A 1
+W 4
+W 10
+D 3
+W 3
+P
+D 7
+A 10
+D 5
+S 7
+W 4
+W 2
+A 4
+S 7
+S 10
+P
+S 8
+P
+D 10
+W 3
+W 4
+S 2
+F 0
+W 1
+F 8
+P
+D 5
+W 8
+S 5
+P
+F 7
+A 9
+F 7
+S 10
+F 9
+A 7
+F 1
+W 5
+W 10
+A 6
+D 10
+P
+S 10
+A 9
+S 9
+P
+W 9
+S 5
+D 5
+S 3
+A 5
+D 6
+F 2
+F 1
+A 4
+W 4
+S 1
+D 10
+A 1
+W 2
+S 10
+A 7
+W 7
+F 5
+P
+W 9
+W 4
+P
+W 7
+P
+D 2
+F 6
+F 1
+A 8
+A 1
+F 4
+F 1
+D 7
+A 9
+S 4
+D 9
+F 4
+W 4
+F 0
+F 3
+P
+D 10
+P
+D 9
+D 1
+S 5
+F 7
+P
+A 6
+W 2
+F 9
+P
+F 9
+D 2
+P
+A 8
+F 4
+A 2
+A 9
+P
+W 2
+A 10
+D 7
+D 3
+A 9
+S 4
+P
+D 2
+W 3
+W 8
+P
+D 4
+A 5
+A 9
+S 2
+F 2
+P
+W 4
+F 7
+D 3
+S 9
+D 10
+P
+S 1
+P
+F 6
+P
+F 8
+F 3
+P
+A 5
+A 4
+A 6
+F 1
+P
+W 4
+S 7
+P
+A 9
+W 7
+S 4
+W 5
+W 10
+W 7
+W 10
+W 7
+A 10
+F 9
+W 5
+A 10
+P
+A 2
+F 5
+S 2
+S 9
+F 8
+S 8
+A 1
+W 2
+D 2
+P
+A 2
+S 7
+A 10
+D 4
+A 7
+W 3
+A 9
+P
+S 3
+W 4
+A 4
+F 4
+D 9
+A 9
+F 6
+W 3
+A 7
+S 2
+F 7
+P
+W 10
+D 7
+D 6
+W 9
+F 9
+A 1
+D 4
+D 3
+F 9
+D 8
+S 8
+F 7
+F 2
+D 2
+S 7
+F 9
+D 5
+F 7
+W 4
+F 7
+W 1
+F 9
+D 2
+D 9
+A 2
+P
+W 2
+D 4
+F 9
+D 10
+F 4
+W 10
+S 8
+P
+F 8
+F 2
+A 2
+W 4
+A 2
+F 9
+F 2
+P
+D 2
+F 8
+W 4
+A 2
+F 1
+A 2
+A 7
+A 4
+S 10
+A 1
+W 9
+A 3
+F 6
+S 5
+D 5
+F 9
+A 5
+W 5
+A 1
+F 9
+W 7
+F 5
+F 4
+P
+F 6
+W 5
+P
+D 9
+W 5
+A 6
+A 5
+A 3
+P
+S 3
+P
+S 7
+D 10
+W 8
+S 9
+P
+D 8
+F 0
+A 7
+D 5
+A 1
+D 3
+W 8
+W 7
+F 5
+W 7
+S 9
+S 7
+F 9
+F 5
+S 2
+W 9
+F 2
+A 8
+S 4
+W 9
+F 3
+S 3
+P
+F 4
+A 2
+D 6
+A 9
+F 0
+D 9
+W 5
+P
+S 4
+A 3
+P
+W 7
+P
+A 7
+P
+D 5
+P
+S 2
+W 2
+P
+F 5
+P
+D 8
+S 5
+A 4
+W 9
+D 1
+A 1
+A 10
+P
+W 2
+F 8
+A 2
+D 7
+A 3
+S 2
+P
+D 6
+D 8
+F 7
+S 3
+W 1
+D 4
+A 10
+P
+D 2
+S 4
+D 6
+D 6
+W 3
+A 4
+S 2
+D 2
+A 8
+P
+F 1
+W 6
+W 9
+W 9
+A 7
+F 3
+W 8
+A 3
+S 3
+A 1
+P
+D 6
+D 8
+W 3
+D 1
+D 8
+F 2
+D 8
+F 2
+W 5
+F 4
+D 8
+F 2
+D 4
+P
+D 10
+A 8
+W 7
+S 9
+W 8
+P
+A 8
+D 8
+S 10
+W 5
+D 5
+W 2
+F 4
+F 9
+A 5
+F 2
+A 7
+A 4
+S 2
+P
+S 8
+F 7
+A 10
+W 3
+W 1
+P
+A 9
+D 5
+S 1
+D 4
+W 6
+W 2
+P
+W 3
+S 5
+D 6
+A 1
+D 9
+W 3
+F 9
+W 5
+A 7
+A 4
+F 2
+S 7
+F 2
+D 10
+F 6
+D 1
+A 6
+F 7
+S 8
+A 1
+S 4
+S 1
+F 1
+F 0
+F 9
+P
+F 8
+F 9
+S 4
+W 5
+P
+A 9
+P
+D 7
+F 6
+S 1
+P
+F 4
+W 10
+D 10
+P
+D 4
+F 7
+P
+S 6
+D 6
+F 8
+W 8
+A 7
+P
+D 1
+A 9
+A 1
+F 7
+W 6
+P
+F 6
+D 1
+F 1
+A 9
+F 4
+P
+D 5
+P
+D 2
+A 5
+A 4
+F 1
+S 3
+F 6
+F 5
+W 3
+D 4
+W 10
+S 7
+W 5
+P
+S 1
+S 9
+S 1
+D 6
+S 4
+D 8
+F 3
+A 2
+P
+F 6
+S 3
+F 4
+P
+S 9
+A 7
+F 0
+P
+A 10
+D 2
+D 8
+S 8
+W 8
+F 3
+A 3
+D 6
+S 9
+P
+F 4
+P
+F 5
+F 2
+P
+S 7
+F 1
+D 4
+P
+W 7
+F 4
+P
+S 7
+A 5
+A 9
+D 4
+D 6
+W 3
+A 2
+D 5
+D 4
+W 3
+D 8
+P
+W 2
+D 5
+P
+W 2
+W 7
+S 5
+A 4
+D 2
+S 5
+P
+A 2
+D 5
+W 5
+W 8
+F 5
+F 5
+P
+A 1
+D 3
+A 5
+F 5
+F 2
+F 7
+D 6
+S 5
+S 5
+W 1
+D 7
+D 4
+D 7
+F 3
+F 2
+S 8
+P
+A 2
+W 10
+F 2
+A 6
+P
+S 10
+F 0
+P
+F 7
+W 7
+F 2
+W 6
+P
+W 4
+W 3
+A 4
+F 6
+P
+D 5
+P
+F 6
+D 2
+D 3
+S 5
+A 4
+W 3
+S 5
+D 7
+D 2
+W 6
+A 5
+S 6
+A 10
+S 7
+P
+F 8
+P
+S 6
+F 8
+D 1
+P
+S 7
+F 5
+A 7
+F 1
+P
+S 7
+A 6
+S 6
+A 7
+W 5
+W 2
+W 1
+S 10
+D 8
+A 2
+A 3
+F 3
+F 6
+W 7
+W 5
+W 8
+S 6
+W 1
+W 2
+F 6
+D 1
+S 5
+F 8
+P
+A 5
+A 4
+W 4
+A 7
+S 2
+D 3
+A 2
+D 2
+A 3
+W 5
+D 6
+S 6
+A 6
+P
+D 9
+S 6
+F 8
+F 8
+S 8
+F 2
+S 4
+D 10
+F 6
+W 8
+W 10
+A 6
+P
+F 6
+A 7
+F 7
+D 8
+F 6
+W 2
+F 2
+S 10
+W 1
+D 2
+A 8
+A 9
+S 3
+P
+W 1
+W 7
+S 5
+W 9
+A 1
+S 1
+P
+A 8
+P
+F 7
+A 2
+P
+A 5
+S 4
+D 7
+D 10
+A 4
+W 6
+F 6
+D 3
+W 2
+W 9
+P
+F 2
+F 6
+P
+D 2
+F 2
+P
+D 5
+S 6
+A 5
+W 2
+W 6
+A 4
+F 4
+A 2
+S 5
+A 1
+S 6
+F 3
+A 8
+S 6
+D 2
+D 6
+W 9
+W 4
+S 7
+S 5
+F 0
+D 4
+W 4
+W 6
+F 2
+S 9
+A 10
+S 7
+F 2
+F 5
+P
+D 9
+F 2
+W 7
+D 9
+W 8
+D 3
+F 4
+P
+D 4
+S 5
+W 8
+F 0
+D 7
+F 1
+F 1
+S 10
+F 3
+A 7
+W 6
+F 3
+D 9
+P
+D 8
+A 7
+F 6
+P
+A 5
+F 2
+W 3
+S 10
+D 9
+D 4
+F 9
+D 4
+W 2
+S 8
+P
+S 9
+F 9
+S 2
+P
+F 0
+S 4
+D 3
+W 5
+P
+F 4
+D 2
+A 6
+S 4
+A 9
+D 3
+P
+F 7
+A 1
+A 7
+S 7
+A 1
+D 5
+A 9
+D 5
+D 2
+W 6
+P
+A 6
+D 9
+P
+W 10
+S 7
+W 3
+A 10
+A 10
+F 2
+A 1
+F 9
+W 1
+P
+F 4
+S 9
+A 2
+S 8
+P
+W 9
+W 8
+F 6
+F 1
+P
+D 5
+F 1
+S 1
+A 7
+P
+F 0
+F 3
+W 7
+S 7
+P
+W 2
+S 9
+D 5
+S 10
+A 3
+D 8
+S 4
+F 7
+D 8
+D 10
+D 6
+W 1
+D 2
+F 9
+D 1
+P
+D 6
+W 8
+S 7
+A 7
+W 9
+W 1
+D 3
+W 10
+S 7
+D 6
+S 5
+W 9
+A 2
+F 1
+D 2
+A 7
+A 8
+S 10
+S 6
+A 3
+F 4
+S 9
+W 8
+P
+S 6
+P
+D 8
+W 4
+S 1
+S 9
+S 1
+F 4
+S 7
+P
+F 5
+D 8
+P
+D 9
+S 1
+S 3
+W 8
+A 3
+W 3
+P
+W 5
+W 3
+F 3
+D 8
+F 0
+A 2
+F 5
+D 6
+P
+D 6
+S 7
+W 8
+W 8
+S 8
+F 8
+W 4
+S 7
+W 1
+D 7
+F 5
+P
+A 9
+W 2
+A 6
+S 10
+P
+W 6
+P
+D 4
+W 6
+W 1
+D 7
+P
+A 7
+W 6
+S 2
+P
+D 2
+P
+A 10
+W 7
+P
+F 4
+F 7
+P
+D 4
+D 1
+W 1
+W 7
+A 5
+P
+D 10
+W 9
+A 5
+W 8
+W 8
+D 1
+F 3
+A 4
+F 9
+A 6
+A 10
+S 6
+W 2
+A 7
+A 5
+P
+D 3
+P
+D 4
+P
+D 1
+S 6
+W 2
+D 6
+P
+D 9
+W 5
+W 5
+A 9
+F 5
+P
+D 8
+F 0
+P
+A 9
+F 2
+A 5
+W 5
+D 7
+A 6
+D 5
+P
+W 10
+W 9
+P
+F 1
+A 9
+A 1
+W 2
+P
+W 8
+A 7
+A 8
+W 1
+A 6
+F 4
+A 6
+W 5
+S 10
+W 5
+D 3
+D 2
+P
+D 7
+W 10
+W 6
+S 4
+S 5
+W 1
+S 5
+F 4
+D 10
+S 7
+S 7
+D 7
+P
+F 8
+F 6
+P
+D 10
+P
+A 4
+A 6
+F 3
+D 1
+S 9
+A 2
+W 9
+W 4
+A 6
+P
+A 2
+W 3
+P
+W 4
+S 4
+F 8
+F 6
+D 4
+A 7
+D 3
+P
+W 10
+W 3
+D 9
+S 5
+S 1
+D 7
+S 4
+A 1
+F 9
+P
+F 6
+S 7
+S 1
+D 8
+A 3
+P
+F 6
+D 7
+W 2
+S 1
+S 5
+S 8
+P
+W 5
+W 4
+S 6
+P
+A 3
+F 8
+F 4
+S 4
+S 7
+S 2
+P
+W 6
+W 4
+D 4
+F 2
+P
+W 10
+F 8
+W 1
+F 3
+A 2
+D 9
+D 10
+P
+W 1
+F 0
+A 9
+W 6
+S 4
+W 10
+S 4
+W 1
+F 0
+D 10
+F 0
+F 0
+P
+F 9
+W 9
+P
+W 3
+D 3
+S 2
+W 9
+D 10
+P
+W 4
+F 6
+F 3
+S 4
+D 10
+S 8
+W 6
+P
+D 8
+F 5
+P
+D 10
+P
+D 8
+P
+D 8
+A 2
+A 7
+P
+D 9
+P
+D 1
+W 5
+F 3
+D 5
+F 4
+F 7
+P
+W 6
+D 9
+F 9
+A 6
+A 10
+W 3
+S 10
+F 4
+D 4
+W 10
+W 1
+D 3
+P
+D 2
+S 3
+F 1
+P
+D 9
+W 1
+A 7
+S 6
+D 3
+D 7
+F 0
+F 5
+D 8
+F 5
+S 8
+P
+A 6
+A 4
+P
+F 8
+F 1
+W 9
+S 10
+S 9
+S 4
+F 5
+A 7
+S 5
+P
+A 3
+P
+A 6
+W 5
+D 1
+F 5
+D 10
+S 8
+P
+S 4
+F 2
+S 7
+A 9
+P
+A 4
+S 9
+W 8
+A 3
+F 6
+W 6
+D 5
+W 1
+W 2
+S 3
+P
+D 8
+S 6
+F 3
+D 8
+D 2
+A 2
+D 3
+D 6
+S 7
+D 1
+D 1
+A 3
+W 1
+A 1
+D 2
+F 4
+P
+D 7
+D 4
+A 6
+P
+F 6
+D 9
+S 2
+S 4
+D 9
+P
+S 7
+W 4
+W 7
+S 7
+S 5
+A 3
+A 4
+F 8
+P
+A 9
+F 5
+F 5
+S 1
+S 1
+W 9
+W 9
+D 1
+S 7
+S 4
+W 8
+P
+F 7
+W 1
+F 5
+D 8
+W 4
+F 9
+P
+S 8
+S 8
+F 5
+W 5
+A 5
+S 5
+A 8
+A 5
+F 1
+A 10
+W 2
+F 2
+P
+D 6
+S 7
+D 1
+F 5
+P
+S 4
+S 3
+W 9
+P
+F 4
+P
+D 4
+D 8
+W 5
+W 5
+W 6
+D 6
+P
+D 8
+W 7
+D 4
+P
+F 5
+D 3
+D 2
+S 5
+D 7
+P
+A 5
+W 10
+D 4
+S 4
+S 1
+D 10
+F 6
+F 2
+P
+A 8
+D 1
+D 6
+A 4
+D 5
+A 5
+S 3
+A 7
+F 6
+F 8
+D 9
+W 8
+F 7
+S 7
+F 1
+F 8
+P
+D 10
+F 7
+D 3
+A 7
+W 2
+F 2
+P
+S 10
+W 4
+W 6
+D 6
+F 9
+P
+D 10
+A 9
+A 10
+F 5
+W 1
+W 6
+A 4
+D 1
+D 2
+F 8
+D 4
+W 5
+S 4
+D 10
+F 2
+S 2
+F 2
+D 8
+F 6
+A 9
+D 9
+S 3
+W 1
+P
+F 0
+D 8
+W 4
+D 9
+D 8
+A 7
+P
+F 6
+S 10
+A 3
+F 9
+F 2
+P
+F 4
+W 10
+D 6
+A 10
+D 3
+P
+S 6
+S 7
+F 5
+P
+F 4
+P
+S 1
+W 3
+D 9
+A 10
+D 4
+D 4
+W 6
+P
+D 5
+S 1
+P
+A 1
+W 4
+P
+W 7
+D 9
+A 6
+F 6
+F 7
+D 3
+D 7
+P
+A 3
+P
+F 1
+D 10
+W 6
+S 7
+W 9
+A 6
+S 10
+A 1
+W 1
+S 1
+F 3
+A 2
+W 2
+P
+W 5
+F 6
+S 3
+F 0
+P
+D 6
+F 9
+D 1
+P
+D 9
+D 9
+P
+F 4
+P
+D 9
+P
+F 8
+A 2
+W 3
+W 2
+S 6
+S 10
+A 5
+F 4
+W 4
+A 8
+A 6
+W 1
+D 10
+D 8
+F 9
+D 2
+F 2
+W 4
+S 7
+P
+W 10
+W 6
+P
+A 7
+F 8
+F 4
+S 10
+D 2
+F 1
+F 1
+A 1
+S 6
+S 2
+D 10
+F 8
+A 7
+A 9
+D 6
+P
+F 3
+W 2
+A 8
+D 4
+F 5
+W 5
+P
+W 4
+S 3
+D 4
+W 7
+F 7
+W 6
+P
+W 10
+P
+W 8
+A 7
+S 3
+F 4
+P
+F 0
+S 10
+P
+A 9
+P
+S 9
+A 8
+D 4
+D 9
+F 7
+P
+S 10
+W 3
+P
+A 3
+F 6
+D 2
+S 5
+F 9
+P
+W 8
+S 1
+D 1
+W 1
+S 4
+F 0
+P
+W 7
+A 8
+D 6
+P
+A 6
+D 5
+S 1
+P
+S 7
+A 7
+S 9
+P
+W 4
+A 5
+S 10
+P
+D 9
+F 5
+A 5
+S 7
+P
+W 10
+D 7
+F 3
+D 1
+A 1
+D 4
+W 4
+P
+F 6
+W 6
+A 9
+W 7
+S 9
+A 1
+F 6
+S 5
+D 10
+W 4
+D 8
+S 9
+S 8
+D 6
+P
+S 4
+D 2
+W 3
+P
+W 9
+S 9
+P
+A 5
+F 5
+P
+F 5
+A 7
+S 5
+W 10
+S 5
+D 9
+P
+F 7
+P
+F 5
+F 4
+P
+A 5
+W 9
+P
+S 3
+W 3
+A 9
+W 7
+F 5
+S 4
+F 1
+A 9
+P
+S 6
+W 9
+S 1
+P
+D 1
+A 1
+P
+W 9
+A 2
+W 1
+F 6
+A 10
+D 2
+F 3
+D 4
+F 8
+A 4
+P
+D 2
+W 4
+A 6
+F 6
+F 3
+W 6
+D 2
+P
+D 8
+D 3
+W 6
+A 2
+D 4
+D 1
+W 3
+S 7
+S 10
+P
+S 9
+D 10
+F 9
+A 2
+S 2
+P
+S 5
+F 3
+S 2
+A 9
+P
+W 10
+A 10
+F 5
+P
+W 1
+F 7
+A 9
+D 9
+W 8
+D 6
+F 7
+A 1
+A 9
+F 1
+P
+F 8
+P
+F 5
+P
+F 1
+W 7
+D 8
+F 9
+P
+S 6
+P
+A 2
+D 5
+W 7
+S 9
+P
+F 3
+A 1
+A 2
+W 1
+A 7
+P
+F 1
+A 3
+A 4
+A 2
+F 4
+A 9
+P
+D 3
+D 7
+D 2
+P
+F 6
+F 9
+F 4
+F 1
+P
+W 9
+W 5
+S 6
+W 9
+A 4
+F 2
+P
+S 6
+W 10
+F 5
+W 5
+D 10
+A 2
+D 9
+A 9
+W 4
+P
+W 10
+A 3
+P
+D 3
+W 1
+S 5
+W 2
+W 3
+D 7
+S 10
+D 2
+S 3
+D 3
+P
+S 7
+D 1
+W 6
+D 6
+A 10
+P
+W 9
+F 8
+S 2
+P
+A 7
+P
+W 4
+D 10
+A 4
+F 9
+P
+D 9
+S 1
+P
+W 1
+D 2
+S 6
+F 6
+F 9
+S 3
+A 6
+W 5
+S 4
+W 1
+A 8
+A 3
+A 10
+F 1
+D 10
+S 9
+D 8
+W 2
+P
+F 7
+W 2
+S 2
+W 10
+F 1
+S 10
+W 6
+P
+D 1
+W 8
+D 2
+W 8
+F 1
+A 1
+F 2
+F 8
+W 7
+W 1
+S 7
+S 3
+D 8
+D 7
+S 3
+F 3
+F 1
+W 4
+W 10
+S 1
+S 8
+P
+S 1
+S 5
+D 7
+A 4
+P
+F 5
+P
+W 1
+S 10
+D 7
+D 9
+F 8
+D 8
+D 5
+D 10
+F 0
+W 8
+F 2
+W 5
+F 8
+P
+F 2
+P
+W 2
+W 9
+W 5
+A 4
+S 9
+A 10
+S 9
+S 1
+F 6
+F 6
+A 4
+A 10
+A 2
+A 1
+S 8
+P
+W 10
+F 7
+W 4
+P
+F 1
+D 1
+D 9
+D 4
+F 6
+P
+A 6
+A 3
+W 8
+S 6
+S 2
+D 9
+P
+A 6
+P
+W 7
+D 3
+W 2
+D 6
+F 6
+P
+S 10
+A 6
+W 9
+W 6
+W 4
+W 1
+P
+A 4
+P
+A 1
+A 5
+A 8
+A 5
+P
+F 9
+W 3
+S 1
+W 1
+A 3
+F 3
+A 10
+S 6
+S 2
+A 7
+S 1
+F 6
+S 1
+S 9
+W 1
+A 7
+F 1
+D 8
+S 4
+P
+D 7
+F 3
+S 4
+P
+D 8
+S 8
+W 6
+F 4
+S 7
+A 5
+F 8
+P
+S 10
+S 10
+W 9
+A 9
+A 9
+A 10
+P
+S 8
+F 2
+P
+S 4
+D 3
+P
+D 1
+S 5
+F 6
+S 5
+S 10
+W 8
+D 6
+S 6
+D 10
+D 10
+D 1
+P
+A 1
+W 1
+F 8
+W 9
+F 9
+S 1
+W 2
+A 8
+D 3
+P
+D 3
+D 9
+F 8
+S 3
+F 8
+P
+W 6
+W 4
+P
+S 6
+P
+S 3
+P
+D 8
+S 7
+S 10
+D 6
+F 7
+A 2
+A 9
+F 1
+D 4
+W 10
+F 5
+P
+F 4
+F 8
+A 2
+F 5
+F 1
+W 8
+D 9
+D 7
+W 9
+A 2
+S 4
+D 7
+D 1
+S 6
+S 2
+S 8
+A 4
+W 2
+W 8
+W 4
+S 7
+P
+F 9
+W 10
+F 0
+W 7
+P
+D 7
+A 1
+S 4
+A 8
+P
+A 7
+S 4
+A 5
+P
+A 2
+A 10
+F 1
+A 3
+A 10
+F 6
+S 6
+A 1
+D 3
+S 7
+F 2
+A 4
+A 9
+A 9
+W 5
+F 7
+P
+A 8
+P
+S 4
+S 10
+D 7
+S 10
+F 3
+D 6
+W 1
+D 10
+S 8
+A 3
+F 9
+P
+W 5
+W 10
+W 9
+D 6
+W 8
+A 5
+P
+W 5
+F 3
+D 7
+F 6
+A 8
+A 4
+A 10
+S 9
+A 1
+P
+F 9
+P
+F 0
+W 6
+F 6
+S 7
+A 9
+S 6
+S 10
+F 1
+F 0
+A 1
+F 7
+F 9
+W 3
+W 5
+P
+F 7
+A 9
+D 1
+F 9
+W 4
+S 4
+S 1
+F 7
+S 5
+S 2
+W 9
+D 6
+W 1
+D 3
+A 2
+D 3
+F 5
+P
+A 4
+S 4
+A 5
+P
+A 3
+S 8
+A 3
+F 7
+P
+S 7
+D 3
+P
+D 10
+F 1
+A 10
+F 6
+W 6
+P
+D 7
+S 5
+A 9
+W 10
+A 2
+P
+W 4
+A 2
+D 1
+D 5
+W 1
+A 3
+S 5
+W 4
+W 9
+P
+D 4
+A 9
+F 0
+D 2
+W 10
+W 8
+S 7
+A 3
+D 2
+W 5
+F 0
+W 1
+F 8
+A 1
+F 8
+D 8
+A 5
+W 2
+F 6
+S 8
+W 3
+S 7
+P
+F 8
+S 6
+D 1
+W 3
+F 5
+D 6
+S 1
+S 1
+W 7
+D 5
+W 6
+F 7
+F 3
+A 5
+W 10
+S 3
+A 10
+A 1
+F 6
+P
+A 9
+S 6
+A 10
+W 6
+A 2
+D 4
+A 9
+F 3
+P
+F 1
+W 5
+S 2
+P
+W 10
+D 4
+A 10
+A 5
+W 3
+W 1
+F 4
+P
+D 8
+P
+F 9
+D 7
+D 5
+F 4
+P
+A 9
+S 7
+F 2
+D 4
+W 2
+D 10
+F 1
+F 4
+P
+W 9
+D 5
+P
+D 7
+F 3
+A 7
+A 2
+F 2
+A 1
+D 4
+S 1
+D 10
+W 10
+A 7
+S 4
+F 4
+A 3
+A 8
+F 7
+A 8
+D 5
+F 6
+W 2
+D 10
+W 3
+F 0
+D 7
+A 6
+W 4
+P
+F 2
+F 4
+D 9
+D 7
+W 5
+P
+D 4
+F 2
+W 3
+F 6
+P
+W 9
+F 0
+F 1
+D 6
+F 0
+D 5
+P
+A 6
+W 8
+S 8
+P
+D 1
+D 8
+S 7
+S 4
+D 2
+S 3
+P
+F 1
+D 8
+A 4
+D 10
+F 1
+P
+W 6
+P
+S 3
+D 5
+F 9
+D 1
+P
+D 2
+F 4
+P
+F 1
+P
+D 8
+P
+S 5
+W 4
+P
+F 4
+F 0
+P
+A 10
+S 10
+D 1
+F 6
+F 9
+A 10
+P
+A 9
+F 1
+W 6
+D 8
+A 9
+S 7
+P
+A 1
+F 0
+A 4
+A 4
+W 6
+S 10
+F 2
+A 2
+S 10
+S 3
+S 8
+W 10
+S 1
+F 8
+S 4
+A 4
+S 7
+A 10
+W 8
+P
+W 7
+F 9
+W 6
+S 3
+F 6
+F 7
+W 5
+S 1
+A 8
+S 10
+A 6
+P
+A 10
+W 4
+P
+W 8
+A 7
+D 1
+P
+D 2
+P
+D 6
+S 9
+D 2
+W 10
+W 6
+W 9
+S 3
+A 8
+F 5
+S 5
+S 4
+P
+F 2
+F 6
+S 6
+D 5
+D 5
+W 2
+A 7
+S 6
+S 6
+P
+S 5
+W 5
+W 4
+D 8
+F 5
+F 9
+S 3
+P
+S 1
+D 1
+S 1
+W 1
+S 1
+P
+A 1
+W 10
+P
+A 4
+W 7
+S 2
+A 8
+F 9
+W 1
+P
+A 7
+A 3
+A 9
+F 8
+F 0
+F 5
+A 7
+D 1
+D 7
+W 4
+F 2
+F 9
+S 3
+A 1
+A 8
+S 3
+S 10
+W 6
+S 2
+S 10
+W 5
+A 3
+D 3
+A 8
+A 2
+S 7
+F 4
+D 10
+D 2
+D 1
+F 3
+D 6
+D 8
+F 3
+F 6
+P
+S 7
+D 3
+A 9
+A 7
+A 2
+P
+F 0
+D 9
+S 7
+A 9
+P
+A 5
+W 1
+S 5
+D 7
+F 7
+S 3
+P
+W 2
+P
+A 8
+F 8
+P
+F 9
+A 10
+F 0
+P
+W 6
+W 4
+S 4
+A 4
+D 2
+A 3
+A 9
+P
+S 10
+S 9
+S 6
+S 9
+A 7
+P
+A 8
+P
+F 6
+P
+A 1
+S 7
+A 4
+F 3
+W 2
+P
+W 10
+F 6
+D 6
+W 5
+W 4
+P
+F 2
+P
+W 8
+D 2
+P
+W 2
+W 8
+A 10
+P
+A 3
+D 3
+W 1
+F 2
+W 8
+P
+W 6
+P
+W 5
+F 5
+D 2
+A 2
+P
+W 2
+F 4
+F 7
+D 10
+A 8
+A 4
+S 10
+S 7
+F 8
+S 10
+D 3
+W 9
+A 3
+S 2
+A 9
+D 8
+A 5
+F 2
+S 5
+A 7
+F 5
+A 10
+A 6
+W 2
+D 9
+P
+S 4
+W 8
+A 8
+P
+W 5
+S 8
+F 9
+F 7
+S 4
+F 6
+P
+S 5
+P
+F 8
+F 6
+F 5
+P
+D 4
+A 2
+F 2
+F 9
+P
+A 9
+F 7
+F 5
+D 7
+D 5
+S 6
+P
+F 5
+D 9
+W 7
+W 10
+W 8
+D 4
+P
+D 10
+S 3
+F 0
+F 1
+F 0
+F 2
+P
+D 2
+S 7
+D 8
+S 5
+W 5
+F 5
+W 8
+F 7
+W 10
+A 9
+D 5
+S 9
+F 1
+P
+A 1
+A 7
+D 7
+F 5
+F 6
+W 6
+W 4
+F 4
+S 3
+W 4
+W 10
+F 3
+D 5
+A 2
+F 7
+A 3
+A 1
+P
+A 2
+S 1
+A 2
+P
+W 10
+S 5
+D 5
+F 1
+F 5
+D 1
+F 6
+S 4
+S 9
+W 3
+A 2
+D 8
+P
+A 3
+W 5
+W 1
+D 8
+S 1
+P
+F 5
+P
+A 5
+A 4
+D 5
+A 6
+A 3
+W 8
+F 2
+W 10
+F 2
+F 0
+A 6
+P
+F 7
+S 1
+W 9
+A 7
+F 2
+F 7
+S 7
+W 4
+P
+A 7
+P
+D 1
+W 4
+P
+W 9
+W 6
+D 5
+D 6
+D 3
+W 10
+S 9
+A 8
+P
+F 3
+S 8
+W 2
+D 3
+P
+D 10
+D 5
+P
+W 9
+S 10
+F 4
+D 4
+A 7
+W 3
+A 1
+D 1
+S 1
+F 7
+S 4
+F 1
+A 6
+F 1
+A 1
+D 6
+D 6
+P
+W 6
+A 7
+S 10
+S 7
+A 10
+D 2
+D 1
+D 7
+F 0
+F 2
+A 7
+D 2
+W 1
+D 4
+W 1
+W 4
+D 10
+A 6
+D 3
+F 3
+P
+W 7
+D 10
+P
+F 8
+P
+S 3
+D 10
+A 2
+D 1
+W 10
+P
+D 4
+S 4
+A 8
+P
+D 3
+A 1
+W 1
+P
+W 7
+F 5
+A 9
+W 6
+A 8
+F 7
+P
+D 10
+P
+W 10
+W 6
+D 8
+F 4
+F 7
+W 7
+A 7
+A 2
+P
+D 2
+P
+F 5
+A 7
+F 7
+A 6
+F 9
+F 5
+A 8
+S 3
+S 4
+W 2
+S 8
+A 1
+F 0
+A 5
+W 7
+P
+W 5
+P
+S 5
+P
+F 8
+S 1
+P
+W 3
+W 5
+F 8
+S 4
+D 5
+F 1
+A 5
+D 5
+A 6
+W 7
+A 1
+W 4
+W 1
+A 4
+S 1
+W 3
+S 9
+D 6
+F 8
+P
+A 4
+S 5
+W 4
+W 7
+W 7
+P
+W 5
+P
+S 1
+P
+S 6
+S 1
+S 5
+S 6
+A 1
+S 2
+F 7
+D 3
+W 8
+P
+A 5
+A 3
+W 9
+P
+W 7
+S 2
+D 6
+A 10
+W 2
+D 6
+S 7
+D 4
+D 2
+F 7
+F 2
+S 10
+W 2
+F 2
+W 9
+W 3
+P
+A 6
+P
+F 8
+P
+F 3
+F 3
+W 6
+F 7
+S 7
+W 10
+W 7
+D 9
+W 10
+P
+D 4
+S 10
+A 2
+A 1
+W 6
+D 6
+S 5
+W 7
+A 8
+F 3
+W 2
+S 8
+D 1
+A 2
+W 8
+F 4
+S 1
+P
+F 7
+P
+A 5
+D 8
+D 2
+A 4
+D 5
+S 2
+F 6
+F 6
+F 8
+F 6
+A 2
+F 7
+P
+A 6
+D 1
+D 8
+F 5
+A 9
+F 0
+F 5
+W 8
+A 5
+A 5
+P
+F 9
+A 2
+W 4
+F 8
+W 5
+A 2
+S 5
+F 1
+D 4
+F 5
+A 10
+F 6
+S 3
+S 6
+W 1
+A 6
+A 6
+S 8
+A 6
+S 4
+W 9
+A 3
+P
+A 6
+D 3
+S 8
+D 6
+W 8
+F 3
+W 1
+F 6
+A 6
+F 8
+P
+F 6
+D 4
+D 1
+W 1
+A 10
+F 3
+P
+D 1
+F 2
+F 5
+A 8
+S 9
+D 7
+P
+F 5
+W 3
+W 2
+P
+F 7
+S 8
+P
+D 10
+F 6
+S 1
+S 2
+F 8
+P
+A 6
+S 7
+D 6
+S 4
+A 3
+D 7
+F 4
+F 3
+D 7
+A 9
+S 9
+F 6
+P
+A 9
+D 7
+W 8
+D 6
+S 8
+W 8
+S 7
+F 7
+P
+A 5
+W 5
+F 4
+S 2
+D 2
+A 6
+F 0
+A 3
+W 8
+P
+S 10
+D 1
+F 7
+D 7
+D 10
+F 3
+P
+S 8
+S 1
+W 3
+F 5
+A 10
+W 6
+F 2
+A 5
+P
+W 4
+A 3
+A 5
+S 5
+S 1
+D 8
+W 5
+F 6
+S 10
+W 10
+F 7
+D 1
+A 1
+D 9
+A 2
+D 4
+P
+A 3
+S 3
+P
+W 1
+F 1
+F 9
+S 1
+W 5
+W 10
+P
+A 3
+F 4
+D 2
+W 3
+S 7
+F 9
+S 5
+P
+A 3
+F 1
+A 2
+S 2
+F 4
+D 1
+P
+S 1
+P
+F 7
+P
+D 3
+D 7
+W 6
+W 7
+P
+S 2
+F 8
+A 1
+A 3
+P
+A 5
+A 2
+S 8
+D 2
+A 3
+P
+F 5
+S 8
+W 9
+A 9
+S 9
+F 4
+S 8
+S 8
+D 10
+S 1
+S 5
+F 6
+W 5
+F 6
+W 10
+D 4
+W 1
+A 1
+S 5
+D 4
+D 4
+A 1
+P
+F 6
+P
+A 7
+P
+A 3
+S 5
+A 8
+D 10
+A 1
+D 8
+S 2
+W 7
+A 1
+W 5
+W 2
+A 6
+A 6
+W 3
+S 4
+D 4
+F 3
+S 5
+P
+F 0
+S 6
+F 6
+A 6
+W 8
+F 9
+A 10
+F 7
+W 6
+D 4
+F 8
+F 6
+A 10
+P
+W 6
+D 7
+W 10
+W 3
+F 1
+S 1
+A 5
+A 4
+P
+D 7
+F 3
+P
+W 1
+D 1
+F 5
+S 10
+F 2
+F 3
+P
+F 7
+A 9
+F 3
+F 5
+P
+W 4
+D 7
+W 9
+W 10
+W 3
+P
+A 9
+S 8
+A 4
+W 2
+A 2
+W 5
+D 2
+W 5
+P
+D 4
+A 1
+D 2
+P
+A 9
+F 7
+D 3
+F 4
+S 9
+F 3
+W 9
+W 8
+S 1
+P
+W 6
+W 7
+W 10
+D 8
+A 10
+F 6
+F 4
+S 1
+W 8
+D 7
+S 3
+D 1
+F 9
+P
+D 3
+F 0
+S 5
+A 4
+S 4
+S 10
+P
+S 9
+D 3
+S 2
+D 8
+P
+F 5
+P
+A 9
+A 10
+D 8
+D 9
+S 10
+S 8
+S 2
+F 8
+S 6
+D 8
+D 10
+F 0
+W 3
+S 1
+W 7
+P
+F 1
+W 9
+W 2
+A 10
+F 1
+W 10
+W 5
+F 3
+P
+D 1
+W 7
+A 4
+A 6
+D 6
+A 7
+A 2
+P
+F 2
+W 6
+S 1
+W 9
+W 3
+F 9
+D 3
+A 5
+S 2
+W 6
+A 5
+A 7
+P
+D 10
+S 1
+D 9
+D 4
+F 4
+A 8
+W 5
+P
+A 9
+W 9
+D 5
+D 4
+F 8
+D 5
+S 5
+S 1
+D 5
+F 9
+P
+W 8
+W 7
+F 6
+S 1
+P
+A 5
+D 4
+A 6
+A 2
+F 5
+A 2
+P
+W 9
+A 1
+F 5
+A 10
+D 2
+W 4
+S 4
+W 3
+S 6
+P
+S 9
+A 6
+F 9
+F 3
+D 7
+S 10
+P
+A 5
+A 10
+A 8
+P
+W 3
+W 3
+S 1
+W 4
+W 2
+S 3
+W 4
+F 3
+A 3
+D 3
+P
+F 8
+F 6
+D 1
+S 3
+A 7
+W 9
+S 4
+P
+S 6
+P
+F 4
+P
+W 2
+W 7
+P
+A 8
+W 6
+F 7
+D 10
+F 1
+W 6
+D 5
+W 7
+S 6
+D 1
+S 2
+W 3
+W 10
+F 9
+D 8
+W 6
+P
+F 4
+A 4
+A 7
+S 5
+D 1
+S 5
+S 4
+F 3
+A 5
+W 9
+P
+D 5
+A 9
+A 8
+D 4
+D 6
+D 5
+W 2
+W 1
+A 8
+S 9
+A 8
+S 9
+S 6
+D 3
+S 4
+P
+A 3
+P
+A 5
+W 10
+F 1
+D 3
+S 4
+F 8
+P
+D 6
+F 7
+A 8
+F 8
+A 8
+P
+A 1
+D 7
+S 1
+W 8
+A 8
+F 5
+W 4
+P
+A 2
+P
+S 8
+A 5
+A 8
+A 2
+W 2
+A 6
+S 8
+P
+S 3
+F 6
+F 2
+W 7
+W 5
+F 8
+P
+W 7
+W 7
+P
+S 1
+W 10
+F 2
+F 5
+P
+A 10
+S 5
+S 3
+W 5
+P
+D 6
+W 9
+A 4
+W 1
+F 6
+D 6
+W 2
+A 3
+S 10
+F 2
+F 3
+F 3
+D 2
+S 6
+A 4
+W 7
+W 4
+W 10
+W 4
+S 3
+F 8
+P
+A 9
+S 1
+F 4
+A 10
+A 4
+W 6
+S 3
+D 6
+W 9
+S 7
+P
+A 3
+A 3
+D 7
+S 4
+F 7
+W 1
+A 7
+S 4
+D 10
+A 5
+P
+D 3
+P
+F 2
+D 6
+S 3
+W 6
+D 5
+F 2
+F 1
+D 4
+A 3
+F 6
+D 9
+W 2
+S 7
+A 9
+D 10
+A 6
+P
+S 2
+D 4
+S 4
+S 7
+D 3
+F 0
+A 2
+P
+W 7
+A 2
+A 9
+W 10
+W 2
+P
+A 8
+S 6
+P
+F 5
+S 5
+A 9
+A 10
+S 4
+S 5
+S 6
+W 3
+A 8
+A 4
+P
+A 7
+F 2
+D 3
+P
+W 5
+D 3
+S 8
+W 7
+W 1
+W 5
+D 1
+S 7
+W 6
+W 3
+A 7
+A 1
+F 8
+P
+A 10
+W 3
+P
+F 3
+W 1
+A 1
+D 6
+W 4
+P
+W 9
+P
+F 9
+P
+D 4
+D 5
+A 3
+D 2
+P
+A 10
+A 4
+F 8
+P
+S 7
+S 1
+W 6
+W 9
+A 10
+F 8
+F 9
+A 7
+W 5
+A 9
+F 5
+P
+W 1
+S 2
+A 9
+D 1
+D 3
+A 8
+S 2
+S 7
+P
+F 4
+F 0
+A 4
+F 5
+P
+F 0
+F 1
+W 4
+W 2
+D 8
+W 9
+A 2
+W 3
+D 7
+W 5
+F 1
+F 4
+D 10
+D 1
+S 8
+S 10
+D 8
+W 7
+F 8
+F 6
+W 8
+P
+S 10
+W 8
+A 2
+D 3
+S 7
+A 9
+F 6
+W 9
+D 10
+A 6
+S 10
+D 5
+S 6
+A 2
+S 9
+S 6
+A 10
+S 7
+F 7
+P
+S 3
+P
+F 8
+A 5
+A 4
+W 2
+W 6
+S 10
+S 8
+P
+W 8
+P
+S 7
+W 7
+A 4
+A 8
+P
+F 6
+A 5
+W 6
+W 1
+A 5
+D 8
+W 10
+D 4
+D 7
+S 3
+D 1
+W 5
+F 9
+D 8
+F 3
+D 5
+P
+F 6
+P
+F 5
+S 8
+S 3
+F 8
+P
+W 1
+D 7
+A 1
+A 3
+D 3
+A 4
+P
+W 8
+F 2
+A 8
+W 8
+W 2
+F 1
+F 8
+P
+D 6
+D 6
+S 8
+F 1
+P
+S 10
+F 8
+A 2
+W 7
+W 9
+S 9
+D 3
+A 4
+A 6
+S 2
+P
+F 9
+F 4
+P
+S 7
+S 10
+W 8
+P
+D 7
+F 7
+F 3
+D 4
+P
+A 9
+W 10
+S 1
+D 10
+F 2
+F 3
+D 2
+W 6
+S 3
+D 7
+A 2
+S 5
+F 9
+F 7
+F 8
+P
+A 4
+D 6
+S 1
+P
+W 4
+P
+F 1
+D 9
+S 8
+D 2
+W 8
+A 2
+D 5
+P
+A 1
+D 10
+D 3
+P
+D 1
+W 4
+P
+A 8
+W 2
+S 4
+S 10
+S 10
+P
+W 7
+W 8
+S 6
+A 1
+P
+W 7
+A 2
+A 9
+S 9
+P
+S 3
+W 2
+F 6
+D 3
+S 9
+D 1
+S 3
+P
+S 4
+S 8
+D 10
+D 1
+F 3
+A 6
+S 10
+S 8
+W 8
+D 6
+P
+F 2
+D 7
+W 6
+S 8
+S 10
+A 7
+D 9
+P
+F 8
+S 8
+F 1
+S 7
+P
+W 10
+F 0
+S 8
+F 1
+F 7
+S 5
+S 2
+P
+F 0
+P
+D 4
+F 9
+W 7
+F 4
+P
+S 3
+S 5
+P
+F 0
+W 6
+S 3
+A 9
+S 2
+F 2
+S 6
+F 0
+A 10
+P
+A 5
+S 6
+S 9
+P
+D 8
+D 7
+W 8
+S 9
+W 5
+P
+A 7
+S 7
+W 4
+W 1
+P
+A 7
+D 10
+W 1
+A 4
+A 10
+F 7
+D 5
+W 6
+S 10
+D 3
+S 1
+A 1
+P
+D 7
+D 6
+A 2
+P
+A 10
+P
+W 6
+F 2
+D 8
+D 2
+D 4
+S 10
+S 8
+A 3
+W 3
+A 6
+W 8
+S 1
+S 8
+W 6
+W 4
+P
+A 9
+P
+W 9
+A 8
+S 8
+A 8
+A 2
+P
+A 6
+A 9
+D 3
+A 3
+F 3
+S 2
+W 3
+D 8
+W 8
+P
+A 5
+F 7
+S 9
+F 5
+S 7
+F 8
+A 10
+F 0
+D 10
+A 3
+F 4
+S 5
+S 1
+S 9
+F 4
+P
+A 10
+D 6
+P
+A 1
+D 6
+D 6
+F 4
+A 1
+A 6
+S 3
+A 3
+A 4
+P
+A 1
+S 10
+A 7
+D 8
+S 2
+F 6
+P
+D 9
+F 6
+W 1
+P
+W 10
+S 1
+A 5
+D 4
+F 9
+A 10
+A 10
+S 3
+D 9
+P
+A 9
+A 1
+F 4
+D 7
+D 2
+S 3
+S 2
+D 2
+P
+Q

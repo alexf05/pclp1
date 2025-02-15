@@ -1,0 +1,30 @@
+Marching Squares
+Am analizat problema si am impartit-o in functie de task-urile pe care trebuie sa le facem.
+Citim cerinte pana cand ajungem la EXIT sau nu se indeplineste o conditie de la citire.
+Daca totul merge corescpunzator, dupa operatia de citire, vom avea dimensiunea matricii, valoarea maxima pe care o poate lua o componenta de la pixel, si o serie de NxM pixeli, 	fiecare cu 3 componente R, G, B.
+Pentru comanda WRITE, vom afisa matricea cu pixeli, ori cea initiala, ori cea dupa RESIZE, ori cea dupa MARCH
+Pentru comanda RESIZE, vom scala matricea cu 4, o vom face de 4 ori mai mare. ex:
+           a a a a b b b b
+           a a a a b b b b
+           a a a a b b b b   
+a b  -> a a a a b b b b
+c d      c c c c d d d d
+           c c c c d d d d
+           c c c c d d d d
+           c c c c d d d d
+Pentru comanda GRID, vom calcula din 4 in 4 valoarea celulei din GRID 0 sau 1:
+	Astfel pentru fiecare valoare vom face media aritmetica a mediilor celor 3 componenete (R,G,B), a posibilelor 5 celule: centru, NE, NV, SE, SV
+	Calculandu-l astfel ne va rezulta un grid de 4 ori mai mic (16x16->4x4)
+	Alocam si calculam pentru n/4 +1 deoarece avem nevoie pentru calcularea MARCH-ului.
+Pentru comanda INIT_CONTUR, vom initializa si afisa cele 16 tipuri de matrice posibile in funtie de cele 4 colturi
+Pentru comanda MARCH, vom finaliza problema si implicit algoritmtul de Marching Squares. 
+	Astfel pentru fiecare set de 4 pixeli din grid (inclusiv cei din ultima linie si ultima coloana), vom calcula numarul binar corespunzator in functie de noduri. Acest numar il vom 	asocia cu matricea corespunzatoare de la INIT_CONTUR si vom crea o matrice noua de 4*dim(GRID)x4*dim(GRID) unde vom copia valorile corespunzatoare de la 	INIT_CONTUR.
+	pentru portiunea de grid:
+	0 0 
+	1 0
+	ne rezulta o matrice de genul (o vom aseza sub forma de matrice sa fie mai sugestiv, si vom afisa doar o componente din cele 3, pentru ca ele sunt identice)
+	0     0     0 0
+	0     0     0 0
+	255 0     0 0
+	180 255 0 0
+	asa se aplica pentru fiecare cvadret ne va rezulta o matrice pe care o atasam la matricea noastra. 
